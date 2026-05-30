@@ -1,0 +1,84 @@
+# Python (backend)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+*.log
+.env
+
+# FastAPI / backend specific
+backend/.env
+backend/.env.*
+!.env.example
+backend/app/local_settings.py
+
+# Node / frontend (Vite React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/*.tsbuildinfo
+frontend/.vite/
+
+# React build output
+frontend/build/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Secrets and keys
+*.pem
+*.key
+*.crt
+*.p12
+
+# Logs and databases
+*.db
+*.sqlite
+*.sqlite3
+logs/
+*.log
+
+# AI models (large files – optional, you may want to keep model if small)
+ai_model/*.pkl
+ai_model/*.h5
+ai_model/*.joblib
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Coverage reports
+coverage/
+*.cover
+
+# Environment variables (already covered above but explicit)
+.env
+.env.*
+!.env.example
+
+# Temporary files
+tmp/
+temp/
+*.tmp
