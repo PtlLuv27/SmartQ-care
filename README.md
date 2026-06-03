@@ -1,4 +1,4 @@
-# SmartQ Care 🏥🤖
+# SmartQ Care
 
 > **An Intelligent, Real-Time Hospital Queue Management System**
 > *Developed by the Shivalik Team*
