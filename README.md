@@ -34,7 +34,7 @@ The system serves three distinct user roles — **Patients**, **Doctors**, and *
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 👨‍⚕️ Doctor Portal
 
@@ -64,7 +64,7 @@ The system serves three distinct user roles — **Patients**, **Doctors**, and *
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -127,7 +127,7 @@ The system serves three distinct user roles — **Patients**, **Doctors**, and *
 └──────────────────────┘
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smartq-care/
@@ -307,7 +307,7 @@ ws://127.0.0.1:8000/ws/{user_id}
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get the project running on your local machine.
 
