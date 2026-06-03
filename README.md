@@ -13,20 +13,17 @@ SmartQ Care is a modern, full-stack web application designed to eliminate hospit
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
 - [System Architecture](#system-architecture)
+- [Project Structure](#project-structure)
+- [ML Pipeline Deep Dive](#-how-the-machine-learning-pipeline-works)
+- [API Reference](#-api-reference)
+- [Role-Based Access](#-role-based-access)
+- [WebSocket Events](#-websocket-events)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Backend Setup](#1-backend-setup)
   - [ML Model Initialization](#2-initialize-the-machine-learning-model)
   - [Start the Backend Server](#3-start-the-backend-server)
   - [Frontend Setup](#4-frontend-setup)
-- [Project Structure](#project-structure)
-- [ML Pipeline Deep Dive](#-how-the-machine-learning-pipeline-works)
-- [API Reference](#-api-reference)
-- [Role-Based Access](#-role-based-access)
-- [WebSocket Events](#-websocket-events)
-- [Configuration](#️-configuration)
-- [License](#-license)
-
 ---
 
 ## Overview
@@ -307,8 +304,6 @@ ws://127.0.0.1:8000/ws/{user_id}
 | `queue_update` | `{ queue_length, your_position, estimated_wait }` | Any queue state change |
 | `emergency_bypass` | `{ patient_id, patient_name }` | Admin flags a patient for emergency |
 | `session_update` | `{ doctor_id, status }` | Doctor starts, pauses, or ends shift |
-
----
 
 ---
 
