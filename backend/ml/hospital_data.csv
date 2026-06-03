@@ -1,0 +1,5001 @@
+doctor_id,disease,queue_size,actual_wait_time_mins
+4,fever,1,27
+4,fracture,13,205
+1,cold,0,14
+3,headache,9,125
+5,fracture,13,235
+1,headache,6,85
+5,fracture,2,63
+2,headache,13,249
+4,headache,1,31
+3,fever,15,229
+5,routine checkup,11,217
+4,headache,14,225
+2,cold,10,188
+3,chest pain,8,137
+3,chest pain,12,237
+4,fracture,15,209
+4,headache,0,16
+1,fever,7,141
+3,stomach ache,5,104
+4,cold,11,210
+5,headache,5,88
+5,fracture,5,113
+2,cold,3,64
+4,cold,2,52
+3,chest pain,3,81
+4,stomach ache,0,20
+4,headache,5,91
+4,cold,4,75
+5,headache,15,287
+4,stomach ache,4,77
+4,chest pain,3,83
+3,routine checkup,0,29
+4,chest pain,12,219
+1,stomach ache,10,176
+5,routine checkup,14,232
+3,fever,13,190
+4,fever,12,232
+2,cold,5,97
+1,headache,12,172
+4,stomach ache,9,158
+3,chest pain,1,49
+5,chest pain,9,181
+1,routine checkup,0,21
+3,stomach ache,3,84
+5,stomach ache,15,196
+4,fracture,12,215
+2,headache,8,161
+4,headache,4,82
+5,chest pain,3,82
+2,chest pain,13,244
+3,routine checkup,1,41
+5,routine checkup,9,169
+2,fever,10,142
+1,headache,4,66
+2,fracture,13,230
+4,cold,13,208
+4,fever,9,151
+2,cold,12,207
+2,stomach ache,5,90
+2,cold,8,148
+3,headache,14,199
+4,routine checkup,15,278
+1,headache,6,88
+4,headache,13,174
+1,chest pain,2,67
+5,cold,11,201
+2,fracture,8,152
+1,fever,8,110
+2,cold,0,12
+5,routine checkup,15,226
+3,fracture,3,84
+1,routine checkup,6,98
+4,cold,6,119
+2,chest pain,8,140
+1,stomach ache,15,209
+1,chest pain,15,303
+5,stomach ache,9,183
+2,fever,13,236
+4,fracture,12,249
+3,headache,2,58
+1,stomach ache,6,113
+5,headache,9,168
+5,stomach ache,8,156
+2,stomach ache,10,138
+3,stomach ache,2,60
+1,fever,0,10
+2,fracture,13,203
+3,fracture,7,137
+3,headache,11,171
+5,chest pain,5,107
+2,fracture,4,94
+4,cold,14,212
+5,headache,8,132
+5,routine checkup,1,34
+2,cold,0,16
+1,fracture,0,37
+5,chest pain,12,219
+3,fracture,6,143
+2,stomach ache,0,17
+2,stomach ache,9,167
+3,chest pain,1,53
+2,headache,11,167
+2,cold,1,35
+3,fracture,1,53
+2,fracture,0,29
+3,chest pain,2,71
+5,fracture,5,96
+2,headache,2,52
+4,fracture,4,80
+1,routine checkup,9,130
+1,chest pain,13,231
+2,chest pain,2,64
+1,routine checkup,3,58
+2,stomach ache,6,124
+5,chest pain,4,108
+1,stomach ache,5,98
+3,chest pain,10,205
+1,stomach ache,11,172
+3,cold,8,123
+4,routine checkup,15,227
+4,fever,0,13
+4,fracture,11,188
+4,cold,11,188
+3,stomach ache,15,232
+2,cold,2,49
+4,cold,11,149
+4,stomach ache,4,77
+3,cold,1,36
+2,stomach ache,5,99
+5,routine checkup,1,37
+1,fracture,0,27
+4,chest pain,0,40
+3,headache,9,165
+5,cold,4,65
+3,chest pain,12,248
+5,cold,6,102
+5,fracture,6,140
+1,stomach ache,7,127
+5,stomach ache,12,219
+1,fracture,2,56
+1,stomach ache,5,95
+2,fracture,8,177
+3,chest pain,13,203
+5,chest pain,6,121
+3,headache,8,133
+5,chest pain,10,160
+2,routine checkup,6,130
+3,stomach ache,6,119
+3,stomach ache,11,213
+2,chest pain,12,243
+3,cold,7,104
+3,fever,2,49
+5,routine checkup,7,119
+1,stomach ache,15,254
+2,stomach ache,4,88
+4,fever,12,209
+4,headache,12,158
+3,routine checkup,1,44
+1,fever,5,102
+5,headache,0,17
+4,headache,8,152
+3,fever,5,84
+3,routine checkup,10,198
+2,cold,3,60
+4,routine checkup,2,54
+4,stomach ache,12,183
+5,routine checkup,6,108
+1,fever,8,131
+5,fever,8,150
+5,headache,13,251
+3,stomach ache,14,281
+3,routine checkup,6,98
+3,fever,0,22
+1,stomach ache,9,175
+5,cold,8,124
+1,cold,3,57
+3,chest pain,11,179
+2,fracture,7,130
+2,fracture,13,199
+4,cold,15,286
+4,headache,13,225
+3,fracture,9,160
+4,chest pain,11,205
+4,chest pain,11,197
+4,headache,15,268
+4,chest pain,15,214
+4,routine checkup,10,163
+5,routine checkup,3,59
+1,fever,14,250
+2,fracture,1,42
+2,fracture,13,216
+4,cold,2,46
+5,routine checkup,12,223
+4,fever,7,117
+3,headache,6,107
+4,stomach ache,8,161
+4,stomach ache,14,246
+3,fracture,0,44
+5,cold,15,211
+5,cold,6,107
+3,stomach ache,13,208
+3,fever,14,219
+3,fever,12,198
+5,fracture,3,74
+2,fever,6,112
+3,cold,1,32
+3,headache,4,79
+4,fever,1,32
+3,fracture,10,210
+2,routine checkup,2,45
+2,stomach ache,2,51
+5,chest pain,2,73
+5,headache,7,122
+4,fracture,3,88
+3,cold,3,71
+3,stomach ache,13,212
+4,fracture,6,147
+2,cold,9,142
+5,fever,0,13
+2,cold,12,228
+4,fever,8,144
+5,routine checkup,9,160
+1,fever,3,50
+2,stomach ache,10,166
+1,fever,6,88
+1,fever,6,122
+3,fracture,14,247
+1,headache,7,134
+2,routine checkup,11,209
+3,fracture,12,236
+2,fever,13,169
+5,fracture,15,289
+4,fracture,15,222
+1,fever,15,223
+4,fever,9,144
+4,cold,3,54
+5,chest pain,0,26
+4,routine checkup,7,150
+1,chest pain,8,128
+1,cold,0,13
+3,chest pain,5,121
+5,routine checkup,2,46
+5,fracture,10,210
+2,headache,15,198
+1,cold,14,240
+5,fracture,2,62
+3,chest pain,12,223
+4,routine checkup,12,174
+1,routine checkup,10,157
+1,headache,0,16
+2,stomach ache,4,72
+1,fever,10,151
+5,stomach ache,3,60
+5,chest pain,11,207
+2,routine checkup,14,204
+2,routine checkup,11,152
+4,cold,13,221
+2,headache,13,207
+3,chest pain,12,210
+5,fever,7,110
+4,stomach ache,3,60
+5,headache,14,236
+5,chest pain,4,93
+5,fracture,5,108
+3,routine checkup,10,202
+4,fever,8,159
+3,stomach ache,15,300
+3,fracture,10,214
+2,routine checkup,6,90
+3,stomach ache,14,266
+5,headache,15,272
+3,chest pain,10,210
+1,cold,7,126
+5,fever,10,155
+1,chest pain,7,135
+5,fracture,10,192
+2,fracture,10,176
+3,stomach ache,1,38
+2,routine checkup,4,87
+3,headache,9,146
+2,routine checkup,15,290
+1,fever,12,159
+4,chest pain,10,185
+4,fracture,9,142
+1,headache,14,249
+4,cold,5,89
+2,cold,11,194
+5,fever,11,189
+3,stomach ache,9,168
+2,routine checkup,13,241
+2,headache,2,48
+5,headache,0,15
+3,headache,3,56
+1,fracture,9,187
+5,fracture,0,25
+4,chest pain,14,229
+3,headache,0,23
+3,cold,15,275
+5,fever,5,88
+5,chest pain,15,294
+1,stomach ache,15,224
+2,headache,2,49
+5,chest pain,3,86
+4,fever,5,81
+2,stomach ache,6,125
+4,headache,2,40
+5,routine checkup,14,217
+1,fever,12,232
+1,headache,11,157
+5,fracture,6,137
+3,chest pain,11,198
+4,routine checkup,8,162
+2,fracture,10,190
+4,headache,8,133
+1,routine checkup,9,167
+2,cold,12,198
+1,routine checkup,9,130
+1,fever,4,66
+2,routine checkup,12,180
+3,fracture,4,104
+2,headache,11,147
+4,headache,2,46
+3,routine checkup,4,83
+2,chest pain,7,125
+4,routine checkup,10,184
+4,routine checkup,9,170
+2,fever,7,119
+2,routine checkup,7,114
+2,cold,2,50
+2,routine checkup,12,209
+4,cold,0,12
+1,stomach ache,3,69
+2,fever,13,239
+4,stomach ache,10,168
+1,headache,4,61
+2,routine checkup,3,69
+5,headache,9,152
+5,fever,10,136
+1,stomach ache,11,215
+2,cold,2,36
+4,fever,13,236
+3,routine checkup,10,198
+1,cold,0,16
+2,routine checkup,7,112
+4,fever,8,125
+1,fever,0,11
+2,cold,12,192
+1,headache,8,155
+4,routine checkup,13,225
+3,chest pain,12,189
+4,cold,6,94
+5,stomach ache,4,87
+4,fever,7,127
+2,headache,0,15
+5,headache,10,157
+2,cold,14,184
+4,stomach ache,2,55
+4,stomach ache,14,188
+5,cold,4,83
+1,routine checkup,15,227
+2,fever,12,172
+2,fever,0,17
+1,headache,4,61
+3,cold,13,213
+1,fracture,9,156
+5,routine checkup,4,67
+4,cold,0,16
+4,fracture,11,167
+1,cold,0,13
+4,stomach ache,5,91
+1,routine checkup,13,183
+2,stomach ache,4,82
+4,routine checkup,12,191
+3,fever,0,17
+3,chest pain,4,94
+2,headache,14,270
+3,headache,8,157
+1,fever,0,11
+1,fever,15,193
+3,fracture,0,35
+4,chest pain,10,216
+2,stomach ache,3,73
+2,fracture,9,159
+4,routine checkup,3,67
+4,headache,2,42
+4,routine checkup,1,33
+5,routine checkup,2,53
+1,fever,1,28
+1,stomach ache,9,137
+4,chest pain,11,238
+5,fever,10,178
+5,headache,10,172
+2,cold,7,105
+3,cold,15,245
+3,fever,10,153
+3,chest pain,9,179
+5,stomach ache,15,220
+1,routine checkup,5,83
+5,chest pain,0,27
+5,fever,14,194
+4,routine checkup,14,184
+2,stomach ache,1,42
+1,routine checkup,4,82
+3,fever,8,129
+1,stomach ache,7,114
+1,fever,12,228
+1,cold,14,207
+5,fever,2,38
+5,chest pain,9,188
+1,fever,7,138
+2,fever,10,157
+4,cold,0,14
+5,stomach ache,0,20
+3,fracture,1,48
+2,routine checkup,3,64
+2,fracture,15,258
+5,stomach ache,8,162
+4,cold,11,147
+1,cold,13,179
+4,fever,10,177
+4,headache,10,185
+2,stomach ache,14,239
+4,stomach ache,5,104
+1,stomach ache,7,128
+4,stomach ache,13,200
+2,fever,2,41
+5,fever,1,26
+2,stomach ache,14,199
+5,chest pain,11,236
+4,stomach ache,4,84
+1,cold,7,103
+3,cold,8,159
+1,headache,5,102
+5,fracture,0,25
+3,headache,5,102
+2,fracture,8,130
+5,fever,15,227
+2,stomach ache,5,103
+3,routine checkup,10,174
+1,chest pain,6,134
+5,stomach ache,7,131
+4,routine checkup,6,119
+4,fracture,13,202
+4,stomach ache,10,171
+2,cold,6,112
+2,fracture,10,145
+3,fracture,2,70
+4,routine checkup,8,128
+2,cold,8,137
+5,fever,6,96
+2,fracture,11,170
+1,fracture,0,31
+5,routine checkup,15,203
+4,fever,5,104
+3,cold,2,42
+5,routine checkup,9,162
+3,chest pain,6,126
+3,headache,4,83
+1,chest pain,4,82
+5,fever,10,176
+5,headache,6,86
+4,cold,0,18
+1,routine checkup,11,205
+5,routine checkup,15,244
+2,fever,8,109
+1,routine checkup,4,68
+5,stomach ache,2,40
+4,chest pain,3,77
+1,fever,10,133
+1,cold,3,63
+3,fracture,10,195
+3,headache,5,107
+5,fracture,7,154
+5,cold,14,239
+3,stomach ache,6,124
+3,fever,14,243
+4,fracture,9,157
+3,fever,1,37
+2,chest pain,12,223
+5,stomach ache,1,41
+1,headache,6,85
+4,routine checkup,6,105
+5,fever,4,72
+4,cold,12,205
+4,fever,6,117
+2,fever,7,109
+4,headache,13,220
+2,headache,3,53
+4,routine checkup,14,228
+1,chest pain,1,48
+3,cold,4,75
+2,cold,4,80
+1,chest pain,4,76
+3,routine checkup,1,37
+5,routine checkup,12,183
+3,fracture,7,155
+3,routine checkup,2,50
+3,routine checkup,14,244
+4,routine checkup,9,133
+3,headache,7,123
+3,fracture,10,203
+5,stomach ache,14,246
+2,cold,0,13
+3,fracture,14,264
+2,headache,14,211
+5,stomach ache,5,92
+2,fever,10,133
+5,cold,3,55
+2,fracture,6,141
+1,headache,11,209
+1,fever,5,103
+2,headache,5,76
+5,cold,12,184
+1,cold,14,181
+1,stomach ache,7,114
+3,routine checkup,0,21
+5,chest pain,2,57
+4,cold,12,222
+2,fever,1,29
+4,headache,5,78
+5,routine checkup,11,177
+5,cold,10,156
+3,routine checkup,8,164
+3,chest pain,7,131
+2,headache,1,33
+5,routine checkup,2,52
+1,fever,11,210
+4,routine checkup,11,209
+4,stomach ache,12,232
+5,headache,15,258
+1,cold,10,155
+3,chest pain,4,83
+4,cold,15,254
+3,routine checkup,10,202
+3,cold,4,86
+4,routine checkup,15,244
+2,headache,0,18
+5,cold,7,132
+4,routine checkup,9,143
+3,fever,0,19
+5,stomach ache,11,200
+2,routine checkup,2,56
+3,routine checkup,0,27
+5,cold,11,213
+3,cold,8,116
+1,chest pain,6,103
+3,stomach ache,8,157
+2,fever,1,25
+4,stomach ache,2,47
+4,headache,3,64
+3,stomach ache,13,209
+1,headache,11,148
+1,routine checkup,8,145
+2,headache,14,209
+3,cold,4,81
+2,fracture,8,137
+3,cold,3,70
+4,chest pain,1,42
+5,fracture,3,76
+1,fracture,10,214
+3,stomach ache,9,138
+3,cold,13,254
+1,headache,11,145
+3,fever,7,121
+3,chest pain,15,233
+2,fracture,14,208
+5,routine checkup,13,184
+3,cold,7,121
+4,stomach ache,15,234
+3,headache,14,191
+1,routine checkup,4,82
+4,chest pain,8,158
+3,fracture,0,37
+3,stomach ache,9,188
+2,routine checkup,2,49
+4,cold,6,87
+2,fever,0,13
+3,cold,11,163
+5,chest pain,8,135
+4,headache,4,77
+5,fever,12,193
+5,fracture,0,29
+1,headache,3,58
+2,fracture,2,59
+2,cold,11,181
+3,routine checkup,11,156
+5,fracture,15,210
+2,cold,13,168
+2,fever,2,51
+5,routine checkup,0,16
+5,fracture,9,180
+3,chest pain,0,30
+5,cold,13,246
+5,chest pain,3,80
+2,fracture,3,68
+5,stomach ache,4,66
+4,headache,8,143
+4,headache,7,101
+3,chest pain,13,225
+2,headache,3,65
+5,headache,0,16
+5,fracture,4,109
+2,stomach ache,8,152
+3,fever,12,187
+3,headache,3,74
+5,fever,13,252
+1,routine checkup,9,159
+3,chest pain,14,259
+2,cold,10,186
+3,fracture,3,88
+5,stomach ache,6,106
+2,fracture,10,151
+1,headache,12,171
+5,routine checkup,6,97
+2,headache,12,208
+2,headache,3,54
+4,stomach ache,11,199
+4,fever,8,158
+3,fracture,1,52
+5,cold,8,142
+4,chest pain,14,253
+2,stomach ache,3,59
+1,headache,15,206
+2,stomach ache,10,147
+1,stomach ache,7,118
+3,routine checkup,11,195
+5,chest pain,10,196
+1,fracture,12,245
+4,cold,3,64
+1,chest pain,8,143
+5,routine checkup,9,154
+3,fracture,14,241
+2,cold,4,65
+2,fever,14,210
+4,stomach ache,0,22
+3,routine checkup,11,194
+4,stomach ache,11,200
+1,headache,7,136
+2,chest pain,5,107
+3,cold,0,19
+5,fever,5,90
+2,stomach ache,13,211
+4,headache,10,192
+3,cold,1,38
+5,fever,9,123
+3,fracture,3,87
+2,routine checkup,12,229
+2,fracture,9,202
+4,fever,4,79
+1,cold,10,146
+3,fracture,9,195
+1,fracture,12,224
+5,fracture,0,32
+2,fracture,4,86
+4,fracture,2,59
+1,chest pain,12,224
+3,stomach ache,3,65
+2,routine checkup,10,189
+4,stomach ache,13,211
+5,headache,7,118
+4,fracture,3,89
+4,headache,14,185
+4,chest pain,12,205
+5,fracture,12,176
+5,fever,15,198
+2,headache,0,12
+2,fracture,1,53
+3,fracture,9,207
+5,fever,13,183
+5,cold,9,134
+5,fever,2,50
+4,stomach ache,0,16
+1,headache,3,58
+1,headache,14,221
+4,stomach ache,4,90
+1,fever,12,168
+2,stomach ache,4,91
+3,headache,11,165
+1,routine checkup,1,35
+5,cold,1,33
+3,fracture,9,149
+5,headache,2,45
+4,fracture,7,130
+3,routine checkup,15,224
+4,chest pain,1,39
+5,cold,2,40
+4,fever,5,93
+4,fracture,9,191
+2,chest pain,13,223
+2,fracture,12,249
+5,routine checkup,5,85
+1,stomach ache,12,186
+3,routine checkup,7,114
+1,headache,1,29
+3,chest pain,15,298
+4,headache,11,148
+1,chest pain,7,162
+5,chest pain,3,91
+1,fracture,9,155
+4,fever,5,87
+3,chest pain,5,94
+5,fever,12,221
+1,stomach ache,8,115
+3,fracture,0,31
+5,stomach ache,11,162
+5,headache,13,200
+1,fever,0,13
+5,fracture,4,103
+2,routine checkup,12,233
+2,routine checkup,4,96
+5,chest pain,13,248
+2,headache,3,52
+2,chest pain,3,83
+2,headache,9,153
+1,routine checkup,11,209
+1,chest pain,8,132
+5,chest pain,2,65
+3,chest pain,15,238
+2,routine checkup,13,190
+4,fracture,13,261
+4,headache,5,82
+2,stomach ache,3,69
+5,fracture,11,169
+3,fracture,3,79
+1,headache,10,133
+1,chest pain,1,48
+5,chest pain,3,79
+3,fracture,10,183
+1,headache,14,221
+2,fracture,11,236
+2,routine checkup,13,256
+5,cold,4,64
+4,headache,1,30
+1,chest pain,2,58
+2,stomach ache,3,68
+3,cold,5,82
+3,cold,15,288
+3,routine checkup,2,56
+2,chest pain,5,108
+5,stomach ache,2,49
+2,headache,10,175
+5,headache,1,34
+3,stomach ache,10,169
+3,fever,1,36
+2,stomach ache,15,200
+2,cold,7,112
+3,cold,3,65
+1,stomach ache,2,47
+5,fracture,1,49
+2,routine checkup,9,141
+4,chest pain,7,159
+2,headache,5,83
+5,fever,11,168
+4,chest pain,15,251
+5,stomach ache,3,64
+3,cold,2,48
+3,headache,1,34
+5,fever,0,14
+3,stomach ache,4,82
+3,cold,7,126
+2,stomach ache,7,149
+3,headache,9,131
+1,stomach ache,10,147
+1,chest pain,5,92
+3,stomach ache,5,94
+5,cold,15,253
+1,stomach ache,3,64
+2,cold,8,120
+3,cold,8,156
+4,headache,0,13
+3,fever,13,174
+1,chest pain,13,218
+5,routine checkup,4,72
+5,cold,9,162
+5,fracture,12,204
+4,cold,7,111
+3,cold,1,30
+1,chest pain,3,80
+2,routine checkup,2,50
+3,chest pain,10,199
+3,stomach ache,8,134
+4,cold,1,30
+4,fracture,0,38
+3,chest pain,14,278
+1,fever,10,141
+3,headache,6,93
+1,headache,12,227
+5,chest pain,11,181
+1,fracture,2,64
+3,stomach ache,14,282
+4,fracture,8,169
+4,chest pain,9,181
+4,routine checkup,4,72
+1,fracture,13,266
+5,fever,6,112
+3,cold,7,128
+5,cold,11,170
+4,cold,4,89
+4,fever,8,142
+2,fracture,1,49
+1,routine checkup,7,104
+3,stomach ache,7,132
+1,stomach ache,3,67
+3,fever,9,138
+5,cold,12,174
+5,routine checkup,0,21
+2,chest pain,4,104
+2,routine checkup,10,187
+4,cold,13,174
+4,fever,1,30
+1,stomach ache,7,120
+3,chest pain,1,57
+4,fever,9,159
+1,headache,0,13
+3,cold,9,128
+2,headache,13,252
+4,headache,12,221
+3,stomach ache,0,27
+3,chest pain,14,269
+1,stomach ache,0,16
+2,chest pain,11,191
+4,headache,14,212
+1,chest pain,15,302
+3,stomach ache,4,80
+1,routine checkup,14,223
+2,cold,10,173
+4,fracture,1,48
+3,headache,13,257
+2,headache,8,110
+1,headache,12,217
+2,fracture,0,28
+2,fever,7,127
+4,fever,5,79
+2,routine checkup,0,18
+1,routine checkup,10,163
+5,chest pain,10,187
+1,fever,6,99
+1,headache,12,178
+2,fracture,7,130
+2,fracture,15,238
+4,cold,3,58
+3,fever,4,66
+2,stomach ache,0,23
+1,headache,5,99
+5,cold,6,95
+3,routine checkup,0,20
+1,fever,11,179
+4,cold,13,184
+3,fracture,0,43
+5,headache,2,44
+5,cold,2,40
+3,headache,15,216
+5,routine checkup,3,67
+4,cold,3,59
+1,routine checkup,14,195
+5,cold,11,188
+3,cold,12,226
+5,fever,13,233
+4,stomach ache,14,277
+1,routine checkup,14,265
+5,fracture,13,274
+2,cold,14,241
+4,stomach ache,7,114
+4,stomach ache,1,31
+3,fever,6,101
+5,cold,3,67
+3,chest pain,1,55
+3,fracture,11,198
+2,headache,11,203
+2,chest pain,3,86
+5,fever,10,177
+4,chest pain,14,221
+5,fever,14,180
+1,stomach ache,8,113
+3,fracture,7,122
+3,stomach ache,12,229
+3,chest pain,6,109
+2,stomach ache,11,154
+3,headache,11,185
+1,fever,5,85
+2,chest pain,8,129
+5,stomach ache,10,138
+1,fever,5,97
+3,fever,7,128
+3,headache,12,201
+1,chest pain,0,31
+3,stomach ache,8,172
+3,chest pain,2,67
+3,cold,1,36
+2,stomach ache,11,217
+5,headache,6,100
+4,stomach ache,9,144
+5,routine checkup,10,155
+3,fever,6,90
+1,chest pain,2,53
+1,fever,9,172
+2,cold,3,60
+5,chest pain,14,227
+1,chest pain,1,45
+5,routine checkup,7,116
+5,chest pain,4,93
+5,fever,4,68
+3,fracture,12,234
+2,fracture,4,99
+1,chest pain,4,86
+4,cold,14,211
+4,fever,8,134
+5,stomach ache,1,35
+5,fever,12,216
+1,fever,6,100
+3,chest pain,4,88
+3,routine checkup,1,36
+3,stomach ache,5,92
+5,cold,7,125
+1,stomach ache,3,55
+2,fracture,8,140
+4,cold,5,86
+1,cold,5,105
+5,fever,12,207
+5,headache,13,195
+3,chest pain,9,149
+5,routine checkup,1,35
+4,cold,15,208
+2,cold,4,80
+3,fracture,5,125
+1,headache,1,31
+1,fever,0,12
+3,cold,11,193
+3,fever,7,113
+3,stomach ache,0,21
+2,stomach ache,14,193
+5,chest pain,10,201
+2,chest pain,4,90
+2,stomach ache,6,124
+5,fracture,6,105
+2,headache,6,120
+4,fracture,4,90
+1,cold,7,97
+1,chest pain,10,182
+2,stomach ache,13,191
+4,fever,9,150
+1,fracture,10,207
+3,stomach ache,10,204
+3,headache,13,217
+3,fracture,13,221
+3,cold,6,101
+2,cold,12,157
+4,fever,15,284
+5,headache,4,74
+3,chest pain,10,225
+4,fracture,2,67
+1,stomach ache,6,121
+1,cold,11,179
+3,routine checkup,14,188
+5,cold,7,101
+4,chest pain,4,101
+2,stomach ache,10,152
+5,chest pain,3,72
+2,fever,9,150
+3,fever,7,139
+2,stomach ache,7,144
+3,chest pain,10,217
+5,routine checkup,14,226
+2,routine checkup,11,181
+5,headache,10,154
+5,fracture,10,200
+2,chest pain,7,146
+5,headache,0,16
+2,chest pain,14,202
+1,cold,14,181
+2,routine checkup,11,210
+3,fever,3,66
+1,routine checkup,10,203
+2,fever,11,210
+1,headache,4,64
+5,cold,2,43
+5,fracture,7,153
+1,fever,4,79
+2,stomach ache,7,104
+3,routine checkup,8,173
+4,stomach ache,13,246
+1,cold,1,25
+3,headache,14,271
+3,stomach ache,12,207
+1,cold,13,185
+3,fever,5,83
+1,cold,3,65
+2,headache,11,177
+4,routine checkup,13,232
+4,routine checkup,0,19
+3,chest pain,7,170
+5,chest pain,10,210
+5,cold,4,69
+3,cold,8,133
+2,fever,7,119
+4,headache,11,191
+3,routine checkup,9,132
+5,chest pain,15,307
+4,fever,9,157
+4,fever,1,33
+1,chest pain,1,50
+2,headache,4,82
+1,cold,8,119
+1,cold,3,68
+1,cold,11,164
+3,routine checkup,2,51
+5,fracture,14,280
+4,chest pain,3,72
+4,fracture,10,201
+1,chest pain,1,51
+4,fever,6,121
+4,headache,6,112
+1,stomach ache,15,203
+1,chest pain,1,51
+1,fever,8,139
+3,routine checkup,15,234
+1,headache,11,158
+5,cold,7,137
+1,fracture,15,295
+5,stomach ache,2,56
+5,headache,7,99
+2,routine checkup,6,103
+2,fever,0,17
+4,stomach ache,9,170
+4,chest pain,2,65
+3,stomach ache,7,124
+4,headache,3,64
+5,chest pain,6,124
+3,stomach ache,15,219
+2,cold,0,14
+3,fever,13,229
+5,chest pain,6,119
+5,stomach ache,8,113
+1,fracture,0,34
+3,fracture,15,279
+4,fracture,11,226
+1,fever,5,98
+4,fever,6,123
+4,stomach ache,9,174
+1,fever,2,40
+1,stomach ache,2,50
+4,headache,5,107
+1,headache,8,143
+1,fever,5,85
+1,fracture,10,188
+5,fracture,9,166
+2,headache,14,214
+2,fracture,14,235
+4,stomach ache,14,227
+4,cold,5,87
+3,fracture,2,78
+3,fracture,5,105
+5,fracture,11,203
+1,routine checkup,4,83
+2,headache,1,29
+3,chest pain,2,73
+3,fever,15,258
+5,stomach ache,13,242
+2,cold,1,30
+3,fever,10,138
+4,routine checkup,13,219
+4,chest pain,9,144
+3,stomach ache,1,41
+2,stomach ache,7,125
+4,fever,14,208
+2,stomach ache,14,270
+5,stomach ache,15,219
+1,fever,3,62
+4,cold,5,102
+5,chest pain,15,249
+2,fever,12,197
+4,fracture,13,273
+4,headache,3,57
+3,cold,4,69
+2,stomach ache,15,256
+3,fracture,11,229
+4,chest pain,0,30
+2,fracture,3,88
+3,chest pain,5,130
+2,fever,0,15
+3,headache,2,51
+2,cold,3,54
+3,stomach ache,15,205
+2,headache,6,86
+3,headache,6,118
+4,cold,3,49
+2,chest pain,4,107
+4,headache,11,193
+2,cold,13,247
+5,fracture,4,102
+5,cold,0,12
+2,fracture,12,246
+1,stomach ache,9,169
+1,stomach ache,5,97
+4,chest pain,12,193
+4,chest pain,7,140
+4,stomach ache,9,124
+1,stomach ache,7,102
+2,fracture,13,208
+5,headache,14,214
+2,fever,11,203
+2,fracture,11,202
+3,routine checkup,7,107
+3,fever,15,262
+5,fever,7,124
+4,headache,14,200
+1,stomach ache,0,18
+2,routine checkup,10,203
+2,cold,2,39
+1,chest pain,8,144
+5,cold,10,185
+4,stomach ache,15,273
+5,stomach ache,0,15
+3,headache,15,260
+4,fever,9,124
+5,stomach ache,14,241
+4,cold,0,18
+1,routine checkup,6,128
+2,fever,7,125
+2,chest pain,12,189
+5,cold,6,123
+2,fever,0,13
+2,headache,5,92
+3,fever,11,154
+4,routine checkup,15,232
+4,cold,6,96
+2,headache,12,218
+4,stomach ache,3,61
+2,routine checkup,12,239
+3,headache,7,112
+4,fracture,5,93
+3,stomach ache,4,89
+5,cold,7,119
+1,chest pain,7,138
+5,chest pain,8,122
+2,fever,1,30
+4,headache,6,101
+5,fever,15,267
+2,headache,4,88
+1,chest pain,11,199
+2,headache,7,101
+1,cold,14,264
+1,cold,12,166
+5,stomach ache,14,275
+2,fracture,9,164
+2,cold,7,99
+4,fever,1,33
+1,fracture,8,146
+2,cold,1,28
+5,stomach ache,4,72
+1,routine checkup,3,68
+1,routine checkup,11,215
+1,stomach ache,9,184
+1,chest pain,10,167
+1,stomach ache,6,103
+5,chest pain,11,170
+1,headache,9,150
+1,chest pain,12,192
+1,routine checkup,6,88
+1,cold,10,175
+1,cold,2,37
+1,cold,1,32
+4,cold,6,114
+5,chest pain,0,29
+4,chest pain,2,64
+3,headache,0,17
+1,chest pain,0,35
+4,chest pain,12,238
+3,stomach ache,5,116
+2,chest pain,14,269
+5,stomach ache,4,73
+3,stomach ache,4,96
+3,cold,3,57
+3,routine checkup,2,54
+4,headache,3,51
+5,headache,15,228
+3,cold,8,139
+1,stomach ache,15,271
+4,routine checkup,14,255
+3,fever,13,199
+5,fracture,2,69
+5,fracture,1,42
+3,cold,2,54
+5,headache,15,227
+5,fever,3,51
+2,stomach ache,6,107
+1,fracture,10,207
+5,headache,2,51
+5,stomach ache,9,145
+3,chest pain,11,173
+5,routine checkup,4,80
+5,cold,1,26
+3,routine checkup,11,167
+1,chest pain,5,116
+5,headache,12,207
+4,fever,14,199
+3,chest pain,12,224
+5,routine checkup,10,162
+3,cold,5,93
+2,fever,3,54
+5,stomach ache,10,177
+4,fever,2,44
+5,routine checkup,2,52
+2,routine checkup,15,292
+2,fracture,1,57
+5,fracture,14,292
+5,chest pain,5,105
+1,routine checkup,4,93
+3,stomach ache,11,158
+2,cold,3,54
+2,fracture,0,25
+3,stomach ache,15,281
+2,fever,11,167
+2,fracture,8,164
+2,fever,4,85
+2,stomach ache,3,78
+4,routine checkup,15,230
+2,fever,8,119
+3,cold,11,184
+2,headache,11,155
+5,headache,3,61
+2,headache,7,102
+1,stomach ache,14,268
+3,stomach ache,2,48
+2,headache,15,192
+3,routine checkup,7,131
+5,chest pain,7,148
+2,cold,14,241
+2,stomach ache,5,90
+1,cold,15,220
+4,routine checkup,4,80
+5,routine checkup,4,83
+3,stomach ache,10,189
+2,routine checkup,6,95
+1,chest pain,13,237
+3,cold,9,149
+2,fracture,11,206
+5,fracture,9,145
+4,routine checkup,15,274
+4,cold,8,109
+5,fracture,5,90
+4,chest pain,14,277
+5,routine checkup,4,93
+4,cold,13,237
+4,cold,9,178
+2,cold,15,272
+3,headache,2,42
+3,fracture,8,164
+1,fever,8,111
+4,stomach ache,9,138
+1,fever,12,231
+2,fever,1,29
+5,headache,7,98
+4,routine checkup,6,87
+3,fever,8,156
+5,stomach ache,0,23
+2,stomach ache,13,177
+3,chest pain,15,261
+1,chest pain,14,212
+1,cold,2,41
+4,cold,12,206
+1,fever,12,168
+1,routine checkup,12,221
+4,routine checkup,10,145
+5,headache,11,201
+3,fever,2,51
+2,routine checkup,8,119
+4,headache,5,78
+2,routine checkup,14,256
+3,fever,12,189
+4,chest pain,7,129
+5,stomach ache,6,87
+2,chest pain,6,142
+3,stomach ache,5,112
+3,fracture,4,105
+3,headache,0,20
+3,chest pain,13,265
+2,headache,0,16
+3,chest pain,12,251
+5,routine checkup,0,15
+4,fracture,8,133
+2,routine checkup,0,22
+4,fever,6,91
+1,fracture,10,164
+3,headache,8,131
+1,fracture,6,132
+4,routine checkup,15,198
+5,fever,12,204
+2,routine checkup,13,180
+4,fracture,0,29
+1,headache,6,91
+5,routine checkup,2,53
+1,stomach ache,5,93
+1,fever,12,219
+2,fracture,8,153
+2,stomach ache,12,210
+1,cold,4,73
+3,headache,12,173
+1,routine checkup,15,285
+4,fracture,8,140
+1,stomach ache,3,67
+3,fracture,10,209
+2,routine checkup,4,84
+1,fever,15,194
+4,routine checkup,4,76
+4,headache,10,164
+5,headache,9,161
+2,headache,3,64
+4,fever,8,108
+2,fracture,3,84
+1,routine checkup,11,178
+1,chest pain,12,234
+4,fracture,11,194
+4,cold,1,26
+4,fever,5,92
+1,chest pain,3,80
+2,fracture,8,161
+1,stomach ache,13,230
+1,routine checkup,2,44
+5,stomach ache,3,62
+1,fracture,14,238
+1,headache,9,121
+1,stomach ache,0,14
+2,stomach ache,10,177
+2,stomach ache,0,16
+1,chest pain,15,284
+5,fracture,0,37
+3,stomach ache,7,118
+2,routine checkup,12,211
+3,cold,2,52
+1,fracture,5,83
+5,cold,13,171
+3,headache,13,257
+1,stomach ache,10,145
+4,stomach ache,14,229
+2,fever,7,111
+1,chest pain,8,135
+2,cold,4,72
+3,routine checkup,15,261
+3,routine checkup,6,114
+2,fracture,14,236
+2,routine checkup,12,163
+3,chest pain,9,184
+3,headache,2,53
+1,headache,11,178
+4,stomach ache,6,101
+1,cold,14,179
+5,headache,9,168
+3,chest pain,6,133
+1,fever,6,112
+2,routine checkup,15,290
+4,fracture,5,124
+1,routine checkup,15,232
+4,routine checkup,14,242
+1,headache,10,135
+5,chest pain,5,120
+3,routine checkup,7,104
+3,fracture,4,98
+3,headache,15,227
+5,headache,12,168
+2,headache,9,149
+1,fracture,7,123
+5,cold,2,47
+4,cold,10,144
+1,chest pain,12,242
+3,stomach ache,5,82
+5,chest pain,7,151
+1,fracture,8,163
+3,fever,0,18
+4,fever,14,197
+3,cold,6,107
+1,chest pain,5,116
+2,routine checkup,4,76
+2,cold,7,110
+4,fever,9,158
+4,stomach ache,9,151
+3,fever,5,108
+3,stomach ache,5,86
+2,fever,9,151
+2,chest pain,12,232
+1,stomach ache,7,100
+5,fever,13,184
+1,fracture,3,91
+4,fracture,6,110
+5,fracture,5,114
+3,headache,11,187
+5,cold,12,229
+1,fracture,9,172
+5,cold,8,130
+2,cold,3,61
+3,chest pain,3,85
+3,headache,0,21
+2,headache,4,78
+3,cold,4,86
+4,routine checkup,0,19
+5,fracture,5,99
+1,stomach ache,15,293
+2,fever,4,90
+2,stomach ache,4,90
+3,fracture,8,157
+5,routine checkup,13,259
+5,stomach ache,12,208
+5,cold,15,256
+1,fever,3,53
+4,headache,15,193
+2,fever,3,54
+1,fever,6,89
+4,chest pain,2,59
+2,headache,11,169
+3,stomach ache,12,201
+4,cold,13,246
+5,fracture,7,131
+1,headache,13,172
+5,fever,6,119
+5,cold,14,238
+2,routine checkup,2,49
+1,fever,14,183
+3,fracture,2,71
+2,fracture,12,224
+2,routine checkup,1,34
+4,chest pain,9,162
+5,stomach ache,12,208
+4,stomach ache,5,111
+2,stomach ache,6,96
+5,fever,2,49
+1,routine checkup,5,82
+2,cold,11,149
+3,fever,3,62
+4,routine checkup,14,261
+1,cold,9,142
+5,fever,5,107
+4,fever,15,225
+4,headache,4,88
+1,routine checkup,6,100
+4,fever,10,137
+4,cold,2,40
+1,fever,15,205
+2,stomach ache,14,206
+4,chest pain,1,52
+4,chest pain,8,160
+1,routine checkup,0,18
+2,stomach ache,9,170
+4,routine checkup,1,37
+2,cold,6,120
+3,chest pain,9,159
+1,headache,8,140
+1,headache,15,207
+3,fever,2,48
+4,fracture,6,103
+4,routine checkup,2,56
+5,cold,7,129
+3,stomach ache,15,261
+4,fever,3,54
+3,routine checkup,10,208
+5,stomach ache,7,149
+1,stomach ache,13,216
+5,routine checkup,14,212
+4,stomach ache,2,44
+4,stomach ache,0,24
+1,chest pain,3,64
+1,headache,2,41
+2,routine checkup,2,51
+3,fever,2,52
+3,chest pain,2,71
+1,headache,5,73
+2,cold,2,47
+2,headache,12,231
+3,stomach ache,11,198
+1,chest pain,13,248
+1,fracture,6,122
+5,cold,3,55
+2,fever,9,147
+4,fracture,9,188
+2,stomach ache,12,167
+2,fracture,15,299
+4,chest pain,5,107
+4,routine checkup,1,41
+3,fracture,12,211
+3,routine checkup,9,155
+1,headache,1,34
+5,chest pain,0,25
+3,stomach ache,2,56
+4,chest pain,15,213
+1,fracture,9,194
+3,fracture,15,249
+4,cold,8,136
+2,fever,9,130
+2,headache,1,26
+1,chest pain,10,161
+2,chest pain,0,36
+1,cold,2,46
+2,fracture,5,101
+5,fracture,11,205
+4,stomach ache,7,136
+1,chest pain,14,225
+5,fever,8,117
+5,stomach ache,3,73
+1,chest pain,11,215
+5,routine checkup,1,37
+1,stomach ache,6,96
+3,cold,7,142
+5,fracture,13,198
+2,fracture,6,143
+4,cold,6,107
+3,stomach ache,6,100
+3,fracture,7,133
+1,cold,13,205
+5,fever,11,159
+1,cold,2,42
+1,chest pain,15,221
+2,stomach ache,14,202
+5,chest pain,6,123
+1,cold,7,112
+5,chest pain,9,179
+2,fever,15,269
+3,routine checkup,4,97
+3,headache,15,231
+3,chest pain,15,221
+4,stomach ache,3,77
+3,routine checkup,9,170
+5,fever,1,33
+1,routine checkup,8,119
+4,stomach ache,1,31
+4,chest pain,8,173
+2,stomach ache,7,122
+3,routine checkup,4,84
+1,routine checkup,8,142
+3,fever,0,23
+2,routine checkup,3,57
+4,chest pain,1,46
+5,routine checkup,5,113
+4,routine checkup,2,45
+5,stomach ache,9,158
+5,headache,3,57
+1,cold,3,48
+1,fever,0,15
+4,fever,2,42
+5,fever,6,123
+5,chest pain,4,94
+3,routine checkup,2,54
+3,stomach ache,0,22
+2,cold,6,114
+1,headache,11,214
+2,chest pain,13,270
+2,fever,0,14
+4,chest pain,9,184
+3,stomach ache,8,158
+4,headache,3,69
+1,stomach ache,10,177
+3,chest pain,12,236
+3,headache,5,110
+4,stomach ache,0,23
+1,cold,5,85
+2,routine checkup,6,113
+2,routine checkup,1,38
+3,headache,8,153
+5,chest pain,14,206
+5,fever,1,31
+3,fracture,2,65
+1,routine checkup,15,228
+2,fracture,5,100
+5,fracture,0,38
+2,routine checkup,11,154
+5,stomach ache,12,202
+2,cold,9,129
+2,routine checkup,0,18
+4,headache,14,212
+2,fracture,5,112
+5,chest pain,1,53
+4,chest pain,5,110
+2,fracture,13,244
+3,routine checkup,1,46
+4,cold,5,105
+3,stomach ache,5,111
+4,headache,3,63
+3,chest pain,6,136
+2,stomach ache,0,18
+2,chest pain,2,70
+4,routine checkup,10,205
+1,headache,11,192
+3,cold,8,133
+4,headache,11,201
+5,chest pain,15,269
+4,routine checkup,13,238
+5,fever,6,111
+4,routine checkup,14,212
+3,fever,14,275
+5,chest pain,2,76
+2,headache,8,110
+3,fracture,12,237
+2,chest pain,2,68
+1,stomach ache,0,20
+5,chest pain,0,36
+2,headache,12,158
+5,fever,2,48
+5,stomach ache,11,186
+3,chest pain,10,203
+4,routine checkup,3,60
+5,fever,11,170
+3,fracture,1,53
+3,chest pain,7,128
+2,headache,4,74
+4,fracture,4,91
+1,stomach ache,5,99
+3,routine checkup,3,80
+2,headache,13,220
+3,headache,15,230
+1,cold,15,256
+1,routine checkup,4,79
+5,chest pain,15,298
+2,fever,2,43
+1,cold,8,131
+3,fever,11,220
+3,chest pain,13,217
+3,stomach ache,4,100
+3,fever,1,32
+5,stomach ache,11,163
+5,chest pain,9,169
+4,stomach ache,2,51
+3,routine checkup,12,198
+1,chest pain,12,182
+4,headache,1,30
+4,fever,6,108
+2,fracture,1,47
+2,fever,7,108
+3,routine checkup,5,93
+1,routine checkup,9,175
+1,fracture,0,23
+1,fracture,10,177
+3,chest pain,13,205
+1,cold,9,149
+4,cold,15,211
+1,routine checkup,12,171
+3,routine checkup,3,60
+3,fever,9,152
+1,fever,12,170
+4,fracture,8,140
+4,chest pain,10,195
+1,cold,8,109
+4,fever,7,104
+2,cold,2,46
+2,fever,3,54
+2,chest pain,8,146
+2,fever,6,103
+3,chest pain,6,135
+3,routine checkup,9,174
+1,fracture,11,220
+1,fracture,11,163
+2,stomach ache,9,128
+3,routine checkup,12,191
+5,fracture,1,50
+3,stomach ache,5,116
+5,fever,7,128
+3,routine checkup,13,224
+3,fracture,5,110
+1,cold,14,220
+1,cold,3,69
+1,fever,1,28
+2,fever,9,122
+2,fracture,0,37
+5,fracture,5,129
+1,chest pain,2,54
+3,cold,4,86
+4,stomach ache,12,239
+1,headache,12,226
+5,routine checkup,13,202
+3,stomach ache,7,127
+5,chest pain,8,176
+2,fever,5,80
+3,stomach ache,2,64
+5,chest pain,11,202
+1,chest pain,15,237
+4,chest pain,7,120
+5,stomach ache,7,136
+4,stomach ache,14,276
+3,chest pain,0,37
+2,fracture,8,133
+4,fever,6,115
+5,fever,12,194
+3,cold,7,115
+1,fracture,14,237
+4,headache,3,60
+3,chest pain,7,144
+5,fever,13,207
+2,routine checkup,7,122
+2,fracture,5,96
+3,cold,4,74
+2,chest pain,3,80
+1,fever,4,66
+1,fracture,13,261
+1,headache,12,158
+4,headache,3,56
+4,fever,3,71
+3,fever,12,235
+1,chest pain,15,216
+4,cold,0,12
+2,fever,3,51
+4,routine checkup,9,133
+5,fever,7,138
+3,headache,10,142
+3,chest pain,11,209
+3,fever,7,141
+5,cold,9,159
+5,cold,2,53
+4,routine checkup,1,37
+5,cold,4,72
+3,cold,8,123
+1,chest pain,7,141
+1,fracture,13,185
+4,fever,11,210
+2,cold,5,94
+1,cold,3,67
+3,headache,12,215
+3,cold,3,75
+5,fracture,3,75
+2,stomach ache,0,18
+5,routine checkup,10,197
+3,fever,1,36
+3,fever,3,65
+1,stomach ache,14,181
+3,chest pain,4,99
+3,fracture,7,121
+3,fever,12,176
+1,stomach ache,3,58
+2,fracture,0,26
+5,fracture,13,240
+4,headache,15,269
+2,headache,2,41
+1,fracture,11,211
+3,cold,1,37
+4,fever,4,82
+3,fracture,6,122
+5,cold,11,215
+3,headache,12,178
+1,cold,8,132
+4,chest pain,8,158
+2,cold,10,162
+1,routine checkup,11,171
+3,fracture,11,188
+3,fracture,15,303
+5,stomach ache,1,31
+1,cold,13,207
+4,fracture,9,165
+2,headache,8,125
+1,fever,11,168
+2,cold,15,196
+2,routine checkup,15,227
+1,stomach ache,0,19
+4,fever,7,109
+4,stomach ache,15,218
+2,stomach ache,10,181
+3,routine checkup,10,179
+3,chest pain,9,156
+5,stomach ache,5,86
+1,chest pain,13,234
+1,headache,1,25
+2,cold,11,168
+3,fracture,7,159
+5,stomach ache,0,15
+2,headache,7,106
+1,routine checkup,12,175
+3,headache,13,226
+3,stomach ache,1,46
+2,fever,11,202
+3,routine checkup,12,219
+5,chest pain,13,206
+1,cold,4,61
+4,headache,6,123
+3,fever,11,205
+4,stomach ache,0,25
+5,fracture,11,190
+3,headache,6,102
+2,routine checkup,6,108
+3,fever,14,257
+5,cold,0,12
+3,routine checkup,4,94
+4,fever,9,152
+4,cold,10,153
+1,fever,8,158
+1,stomach ache,13,234
+2,stomach ache,6,108
+2,chest pain,8,122
+4,routine checkup,8,137
+1,fracture,1,50
+4,routine checkup,5,95
+5,stomach ache,7,143
+4,cold,10,176
+4,stomach ache,5,90
+2,chest pain,15,251
+3,headache,7,148
+3,stomach ache,0,22
+2,stomach ache,8,157
+4,fever,7,111
+1,fracture,3,81
+5,fracture,2,55
+1,headache,3,51
+2,headache,15,242
+4,fracture,10,170
+4,cold,5,93
+1,headache,14,181
+3,headache,6,119
+1,routine checkup,15,213
+4,chest pain,6,106
+2,cold,8,141
+3,stomach ache,10,157
+2,stomach ache,7,129
+1,fever,2,46
+2,fracture,14,261
+5,cold,10,142
+1,fracture,8,180
+3,cold,7,108
+2,chest pain,6,122
+4,cold,4,75
+2,stomach ache,14,215
+3,cold,1,36
+1,chest pain,15,298
+2,stomach ache,1,34
+4,fracture,3,67
+1,stomach ache,12,198
+5,fracture,2,59
+2,chest pain,9,148
+3,chest pain,11,231
+3,stomach ache,6,105
+5,stomach ache,15,272
+3,fracture,7,128
+2,stomach ache,8,121
+4,routine checkup,6,101
+4,fever,5,107
+3,chest pain,11,213
+4,stomach ache,6,91
+5,headache,9,134
+5,fever,2,52
+2,fever,11,194
+5,headache,6,88
+4,routine checkup,12,235
+1,cold,2,36
+2,headache,7,96
+2,cold,5,87
+3,headache,2,48
+3,headache,6,99
+5,headache,6,103
+3,routine checkup,5,86
+4,stomach ache,15,214
+5,fever,2,40
+5,cold,4,64
+5,fracture,12,218
+2,stomach ache,13,189
+1,cold,0,10
+4,fracture,3,68
+2,fever,9,122
+4,routine checkup,12,177
+5,headache,13,168
+4,fracture,6,111
+2,cold,10,182
+4,chest pain,5,106
+2,routine checkup,6,118
+1,stomach ache,11,178
+1,cold,2,45
+5,stomach ache,6,130
+3,fracture,11,182
+3,cold,11,197
+1,headache,15,191
+4,chest pain,1,55
+3,headache,4,86
+2,headache,9,140
+1,stomach ache,11,206
+2,fever,1,34
+2,stomach ache,13,218
+4,headache,11,146
+4,fracture,11,158
+5,stomach ache,13,233
+4,fracture,13,220
+5,cold,2,48
+2,fracture,5,105
+5,cold,4,66
+4,cold,4,77
+5,chest pain,10,184
+4,headache,5,97
+4,chest pain,13,223
+4,fracture,13,257
+1,routine checkup,11,213
+1,fever,13,195
+4,fever,14,200
+3,cold,0,17
+4,headache,15,210
+2,chest pain,4,108
+5,stomach ache,5,85
+4,headache,6,121
+4,fracture,4,92
+3,cold,6,119
+4,routine checkup,15,256
+5,routine checkup,8,120
+1,headache,11,170
+1,headache,11,157
+3,chest pain,13,251
+1,cold,1,25
+4,fever,0,15
+1,routine checkup,10,150
+5,headache,6,107
+4,cold,7,108
+3,headache,9,185
+3,routine checkup,14,237
+1,fracture,0,25
+5,cold,3,66
+2,routine checkup,9,185
+4,cold,1,29
+2,chest pain,5,121
+5,stomach ache,5,76
+3,headache,7,122
+1,routine checkup,4,86
+5,routine checkup,14,189
+5,fever,7,126
+1,chest pain,8,135
+1,cold,14,212
+5,routine checkup,15,229
+4,cold,9,167
+4,headache,1,29
+5,fever,5,98
+5,fracture,14,290
+4,fever,6,85
+2,headache,6,100
+5,routine checkup,15,294
+1,chest pain,0,23
+5,chest pain,12,208
+1,fever,4,58
+1,routine checkup,11,178
+4,routine checkup,13,200
+4,fever,2,51
+1,stomach ache,2,56
+2,fever,6,94
+3,fever,4,76
+3,headache,1,36
+5,chest pain,7,130
+3,routine checkup,10,149
+4,routine checkup,15,213
+3,routine checkup,1,44
+2,cold,8,127
+2,routine checkup,9,142
+3,routine checkup,3,74
+2,headache,8,154
+3,chest pain,9,193
+1,fracture,9,133
+5,headache,6,114
+2,chest pain,15,271
+1,headache,11,166
+3,fever,1,36
+3,stomach ache,9,173
+3,fracture,15,225
+1,stomach ache,3,67
+3,stomach ache,3,60
+5,routine checkup,4,70
+1,cold,1,29
+5,fever,9,151
+1,fever,8,124
+5,headache,9,176
+3,chest pain,6,126
+2,routine checkup,1,39
+3,fracture,8,130
+2,fracture,15,256
+1,chest pain,7,148
+3,routine checkup,14,233
+4,chest pain,15,279
+4,stomach ache,1,33
+1,stomach ache,8,146
+4,chest pain,1,54
+1,chest pain,14,269
+4,fracture,4,85
+1,routine checkup,11,202
+2,fever,3,65
+3,fever,10,153
+5,cold,0,17
+2,fracture,13,189
+4,chest pain,12,195
+5,routine checkup,4,97
+1,stomach ache,12,202
+5,fracture,8,123
+3,cold,8,147
+4,headache,11,158
+5,headache,0,14
+1,routine checkup,10,134
+2,stomach ache,3,69
+2,fever,15,241
+4,fracture,7,120
+2,routine checkup,6,115
+4,stomach ache,1,42
+3,stomach ache,15,262
+5,fever,2,42
+3,routine checkup,10,157
+3,fracture,1,55
+1,cold,1,23
+5,chest pain,15,305
+5,chest pain,10,212
+2,cold,12,158
+5,cold,13,252
+4,headache,13,197
+4,fever,2,38
+1,chest pain,10,204
+1,chest pain,14,238
+2,fever,8,134
+2,chest pain,9,147
+1,fracture,1,37
+1,fracture,7,149
+3,cold,9,174
+1,cold,9,163
+2,fracture,4,100
+3,fracture,3,75
+4,headache,0,13
+4,fracture,12,248
+2,cold,2,44
+5,routine checkup,13,187
+5,routine checkup,4,69
+5,routine checkup,14,204
+4,chest pain,13,196
+1,fracture,15,287
+3,fracture,12,246
+5,fracture,1,39
+2,stomach ache,6,114
+2,fracture,13,230
+3,stomach ache,15,291
+3,headache,15,244
+2,fever,6,92
+2,stomach ache,11,172
+2,fracture,4,105
+1,cold,9,122
+5,fracture,0,39
+4,cold,7,104
+3,routine checkup,6,117
+2,routine checkup,15,258
+1,chest pain,6,137
+1,fracture,11,198
+1,headache,0,15
+4,cold,5,91
+5,fracture,10,213
+3,headache,5,87
+3,headache,15,288
+1,headache,10,153
+5,cold,6,105
+4,fever,3,55
+5,chest pain,15,243
+5,fever,12,161
+1,fracture,6,120
+2,routine checkup,4,84
+3,cold,14,272
+2,routine checkup,10,187
+1,chest pain,8,167
+3,cold,11,165
+3,cold,6,104
+3,cold,1,35
+1,cold,2,35
+5,headache,12,217
+2,routine checkup,6,92
+4,headache,6,116
+4,chest pain,10,200
+5,fever,0,18
+3,chest pain,15,212
+4,headache,10,155
+2,cold,15,227
+5,chest pain,3,93
+4,headache,10,144
+2,cold,8,136
+4,cold,11,216
+1,routine checkup,13,238
+2,routine checkup,12,197
+2,headache,4,81
+1,chest pain,5,85
+2,routine checkup,2,57
+5,stomach ache,3,75
+3,stomach ache,5,83
+2,routine checkup,14,239
+5,cold,12,156
+2,fracture,2,57
+2,routine checkup,3,60
+1,routine checkup,15,248
+2,routine checkup,5,95
+4,cold,4,65
+1,routine checkup,2,44
+1,fever,2,41
+5,fracture,2,61
+2,routine checkup,3,60
+3,fever,14,242
+1,cold,4,60
+5,routine checkup,12,215
+1,chest pain,3,75
+2,fracture,9,195
+5,fever,0,16
+2,stomach ache,3,53
+3,fracture,3,90
+2,headache,12,193
+3,routine checkup,12,205
+5,fever,0,18
+1,cold,5,88
+4,headache,6,114
+5,routine checkup,11,181
+4,chest pain,3,79
+4,chest pain,3,74
+5,cold,5,96
+1,fever,5,83
+2,fracture,5,92
+3,cold,2,56
+5,fracture,1,50
+5,fracture,0,33
+3,stomach ache,0,30
+2,cold,8,156
+2,headache,1,32
+1,routine checkup,7,144
+2,fracture,10,205
+3,fever,6,93
+3,chest pain,14,250
+2,fever,1,28
+1,routine checkup,1,29
+1,chest pain,2,73
+2,routine checkup,2,45
+1,headache,5,91
+5,headache,7,116
+2,routine checkup,2,52
+2,chest pain,10,216
+1,headache,8,116
+3,stomach ache,10,184
+2,fracture,14,236
+1,chest pain,2,64
+1,fracture,10,144
+4,chest pain,14,274
+2,fracture,0,35
+5,chest pain,15,272
+3,cold,1,36
+2,fracture,14,193
+4,headache,9,120
+1,cold,12,207
+2,routine checkup,7,130
+5,stomach ache,11,160
+4,cold,15,282
+4,fracture,8,168
+2,cold,7,137
+2,chest pain,11,210
+4,routine checkup,6,93
+4,chest pain,1,50
+1,headache,11,169
+4,fever,2,40
+2,stomach ache,5,100
+4,stomach ache,8,121
+5,chest pain,7,151
+1,fracture,4,98
+2,chest pain,15,235
+3,chest pain,5,119
+1,stomach ache,2,40
+5,routine checkup,9,146
+2,fracture,2,59
+3,chest pain,12,176
+1,fracture,1,41
+5,cold,10,152
+5,fever,5,87
+1,stomach ache,1,33
+2,cold,14,186
+3,cold,9,185
+5,headache,12,209
+3,stomach ache,12,196
+2,cold,9,180
+5,routine checkup,3,66
+4,routine checkup,2,54
+5,fever,15,252
+2,cold,13,181
+2,headache,12,174
+5,fever,14,196
+1,chest pain,5,115
+1,fever,2,37
+2,fracture,0,27
+2,fracture,3,66
+1,stomach ache,13,197
+4,fracture,0,35
+4,routine checkup,7,118
+4,fever,4,73
+2,routine checkup,10,156
+1,stomach ache,9,184
+4,headache,10,165
+1,headache,10,164
+3,fever,8,124
+3,fever,6,92
+5,routine checkup,0,18
+4,headache,3,54
+1,fracture,6,125
+5,stomach ache,10,149
+3,headache,0,18
+5,fracture,8,142
+1,stomach ache,11,161
+2,headache,0,13
+1,headache,6,85
+4,cold,14,267
+3,fever,3,65
+4,routine checkup,6,125
+1,routine checkup,9,170
+5,stomach ache,12,211
+3,chest pain,0,37
+2,fracture,8,137
+2,cold,0,16
+5,headache,5,80
+2,chest pain,3,81
+4,fever,11,212
+5,fracture,15,293
+3,headache,0,20
+2,stomach ache,7,108
+1,fever,0,16
+4,cold,2,38
+1,chest pain,2,66
+4,routine checkup,1,30
+5,cold,7,96
+3,routine checkup,2,57
+5,cold,8,136
+3,cold,15,292
+2,routine checkup,6,128
+3,fever,9,136
+3,fever,13,240
+4,fracture,12,210
+5,cold,2,42
+2,routine checkup,1,34
+5,routine checkup,14,207
+3,cold,5,83
+2,fever,1,29
+4,fracture,0,35
+5,cold,4,66
+4,chest pain,13,216
+2,routine checkup,13,213
+4,fever,14,198
+5,headache,6,118
+4,chest pain,15,231
+2,routine checkup,1,36
+1,fracture,4,98
+2,headache,14,254
+2,fracture,14,246
+5,cold,12,218
+3,headache,2,50
+5,routine checkup,6,90
+5,stomach ache,11,201
+1,fracture,0,29
+3,fever,10,137
+4,routine checkup,14,247
+1,chest pain,5,107
+5,fracture,4,84
+5,chest pain,14,196
+5,cold,3,57
+5,fracture,0,30
+4,chest pain,2,62
+5,fever,9,135
+2,fever,3,53
+4,cold,11,180
+1,stomach ache,9,155
+3,chest pain,6,120
+5,cold,6,123
+5,routine checkup,9,169
+5,cold,5,77
+1,headache,11,147
+1,stomach ache,2,57
+1,fever,0,10
+3,routine checkup,8,119
+2,cold,14,181
+4,cold,4,81
+1,cold,3,68
+2,cold,5,74
+5,cold,5,77
+2,fracture,8,165
+1,chest pain,11,192
+3,cold,13,175
+1,headache,11,177
+3,stomach ache,10,161
+3,fever,10,150
+3,cold,4,73
+2,fever,4,63
+5,stomach ache,4,73
+1,headache,7,97
+4,fracture,4,85
+1,cold,7,138
+1,headache,13,223
+1,fever,1,32
+1,headache,9,176
+1,stomach ache,13,209
+1,fever,6,118
+2,headache,1,30
+5,cold,9,131
+2,fracture,8,138
+4,headache,13,233
+4,stomach ache,0,22
+2,headache,5,79
+3,routine checkup,8,171
+1,cold,6,84
+1,cold,0,11
+2,headache,5,88
+5,fracture,12,175
+2,routine checkup,8,147
+2,chest pain,7,119
+2,cold,14,209
+5,fracture,7,149
+5,fever,8,141
+2,stomach ache,1,39
+2,stomach ache,6,111
+2,chest pain,9,151
+5,headache,5,93
+4,routine checkup,12,187
+3,fever,12,164
+4,stomach ache,8,119
+3,chest pain,14,283
+2,stomach ache,14,255
+3,stomach ache,0,25
+3,fever,12,173
+2,fever,13,234
+1,cold,15,191
+1,routine checkup,7,128
+3,fracture,7,139
+1,cold,10,194
+4,headache,8,132
+3,cold,12,223
+2,fracture,11,237
+2,fever,2,37
+3,stomach ache,3,63
+1,stomach ache,8,154
+1,headache,0,10
+4,fracture,1,43
+3,fever,5,93
+4,stomach ache,13,173
+3,stomach ache,6,95
+3,routine checkup,5,88
+2,stomach ache,8,121
+2,headache,4,75
+5,routine checkup,5,85
+4,cold,7,141
+4,stomach ache,0,15
+2,fracture,7,136
+2,cold,5,79
+3,headache,5,88
+1,fever,13,169
+2,routine checkup,2,54
+2,chest pain,9,179
+2,fever,0,12
+1,chest pain,11,212
+4,routine checkup,10,150
+4,chest pain,6,104
+2,cold,6,119
+3,routine checkup,4,70
+5,fever,0,16
+4,routine checkup,2,45
+1,stomach ache,10,202
+4,cold,7,141
+5,chest pain,5,113
+3,chest pain,10,207
+4,chest pain,13,214
+2,fever,2,51
+1,fever,12,207
+4,fever,7,113
+1,headache,6,102
+1,fever,7,132
+5,chest pain,10,193
+1,stomach ache,7,126
+1,headache,0,11
+5,stomach ache,2,55
+2,cold,5,85
+2,stomach ache,11,153
+1,stomach ache,13,249
+5,cold,5,90
+1,chest pain,0,37
+5,cold,10,192
+5,routine checkup,7,116
+1,cold,10,192
+2,headache,12,209
+5,chest pain,13,214
+2,headache,5,73
+4,cold,12,161
+1,routine checkup,0,13
+4,fracture,6,104
+2,stomach ache,7,136
+3,chest pain,15,292
+1,headache,11,170
+2,stomach ache,13,253
+3,routine checkup,0,30
+2,routine checkup,10,184
+1,stomach ache,14,257
+4,cold,14,269
+3,stomach ache,14,279
+2,fracture,4,86
+3,stomach ache,0,22
+4,headache,4,74
+5,cold,9,144
+5,chest pain,15,295
+2,routine checkup,9,168
+2,fracture,12,181
+1,cold,11,145
+4,routine checkup,8,129
+1,fever,14,183
+4,routine checkup,11,166
+5,fracture,11,194
+1,stomach ache,3,55
+1,headache,11,181
+1,routine checkup,7,142
+3,headache,2,48
+1,fever,2,39
+1,fever,3,46
+4,fever,1,32
+2,chest pain,7,115
+4,fracture,6,105
+1,routine checkup,15,248
+3,routine checkup,0,25
+4,fever,15,243
+4,cold,13,174
+5,routine checkup,1,37
+2,fracture,0,36
+4,cold,10,175
+3,stomach ache,5,102
+3,headache,7,132
+2,routine checkup,9,131
+1,chest pain,10,157
+3,fever,6,125
+5,cold,2,46
+2,chest pain,8,153
+2,chest pain,10,166
+1,fracture,5,98
+3,cold,0,19
+2,stomach ache,10,169
+5,fracture,13,227
+1,chest pain,6,116
+3,chest pain,4,117
+5,cold,12,181
+2,chest pain,5,129
+4,fever,2,38
+5,cold,2,48
+3,fever,14,186
+2,fracture,0,38
+3,chest pain,3,87
+2,routine checkup,9,160
+3,chest pain,0,40
+1,stomach ache,14,197
+2,fracture,14,270
+5,stomach ache,11,211
+2,cold,10,198
+1,headache,8,142
+1,cold,9,164
+2,routine checkup,7,143
+3,fracture,3,93
+2,routine checkup,7,115
+2,fracture,4,96
+3,fracture,5,96
+2,fracture,9,137
+1,stomach ache,12,202
+2,fever,13,237
+4,fracture,4,93
+2,fever,6,99
+3,cold,8,127
+2,headache,5,98
+1,headache,10,161
+5,fracture,10,205
+3,routine checkup,6,97
+1,fracture,3,81
+2,fracture,11,200
+1,fracture,2,61
+3,fever,10,153
+3,fever,3,53
+2,stomach ache,11,183
+4,stomach ache,6,120
+3,fracture,1,46
+5,fever,14,223
+4,chest pain,13,243
+1,headache,10,182
+5,routine checkup,5,90
+4,routine checkup,9,144
+3,fever,15,260
+4,cold,8,160
+3,chest pain,8,174
+2,headache,0,17
+5,fever,8,143
+3,routine checkup,12,190
+5,fever,10,166
+2,fever,7,113
+4,cold,15,258
+3,routine checkup,3,60
+5,routine checkup,13,224
+2,headache,14,266
+1,chest pain,8,142
+1,cold,15,211
+2,cold,12,174
+2,stomach ache,3,62
+3,chest pain,9,153
+2,stomach ache,12,234
+4,chest pain,1,42
+3,stomach ache,4,91
+5,headache,12,162
+5,headache,11,172
+1,fever,0,15
+3,fever,4,83
+5,fracture,1,52
+2,fever,5,99
+1,routine checkup,6,103
+2,stomach ache,7,112
+3,cold,11,215
+2,fever,0,12
+5,headache,0,15
+2,headache,5,88
+5,fracture,3,81
+4,routine checkup,11,212
+1,fever,5,80
+1,cold,4,82
+4,chest pain,0,36
+2,headache,3,60
+1,fever,14,237
+5,headache,3,51
+2,cold,15,209
+3,routine checkup,4,88
+2,chest pain,1,48
+2,fracture,6,105
+5,cold,9,159
+2,fracture,12,192
+5,stomach ache,3,63
+2,chest pain,15,265
+2,chest pain,15,274
+1,fracture,1,52
+4,fracture,13,191
+4,fever,2,51
+5,fever,14,268
+2,chest pain,11,171
+2,fever,0,16
+2,chest pain,1,44
+3,fever,12,214
+1,headache,6,113
+5,fever,13,173
+2,fracture,3,80
+1,routine checkup,6,101
+4,cold,12,198
+3,fracture,5,110
+2,chest pain,5,85
+1,headache,6,99
+5,fever,7,141
+4,chest pain,8,138
+3,headache,7,114
+2,fracture,11,169
+4,headache,5,104
+5,cold,6,108
+2,headache,1,25
+4,routine checkup,9,164
+4,cold,13,246
+2,stomach ache,5,93
+5,routine checkup,4,71
+3,fever,11,196
+3,cold,3,56
+2,chest pain,5,105
+3,chest pain,11,199
+1,stomach ache,11,175
+1,stomach ache,2,52
+3,cold,11,216
+5,fracture,7,146
+3,chest pain,8,168
+1,fever,13,193
+2,headache,2,54
+1,routine checkup,4,85
+3,cold,9,157
+5,chest pain,13,273
+5,routine checkup,3,54
+2,cold,14,209
+4,routine checkup,13,172
+2,chest pain,5,97
+5,chest pain,0,25
+1,fever,11,153
+2,fracture,2,63
+5,chest pain,13,268
+3,stomach ache,12,191
+4,headache,9,161
+2,fever,4,60
+5,fracture,0,33
+1,routine checkup,0,19
+5,routine checkup,13,185
+1,fever,0,13
+3,stomach ache,15,201
+3,stomach ache,10,192
+4,routine checkup,8,117
+5,chest pain,5,124
+3,routine checkup,11,219
+5,routine checkup,5,84
+4,fracture,2,72
+2,headache,4,67
+3,chest pain,13,226
+2,stomach ache,13,246
+3,fever,7,147
+1,headache,15,270
+3,cold,8,164
+3,headache,13,205
+2,stomach ache,3,70
+3,fracture,0,34
+2,routine checkup,12,209
+3,routine checkup,12,240
+2,routine checkup,14,185
+3,fracture,15,299
+4,routine checkup,13,246
+3,stomach ache,14,230
+4,cold,4,68
+4,fever,6,89
+2,fracture,2,61
+2,stomach ache,4,71
+3,fracture,5,121
+5,stomach ache,7,132
+3,stomach ache,7,111
+2,routine checkup,12,224
+4,stomach ache,2,50
+4,chest pain,8,136
+3,fever,5,108
+3,cold,4,69
+4,routine checkup,1,39
+1,headache,9,156
+5,fracture,2,65
+4,fracture,10,205
+1,headache,10,130
+4,chest pain,8,177
+1,cold,5,85
+1,chest pain,8,160
+4,stomach ache,11,208
+1,headache,4,71
+5,stomach ache,12,179
+1,stomach ache,0,16
+2,fever,3,66
+1,fever,14,179
+2,routine checkup,5,91
+5,fracture,8,146
+1,routine checkup,14,275
+5,chest pain,15,251
+3,chest pain,14,234
+1,fever,0,15
+3,routine checkup,3,78
+4,fever,14,239
+1,fever,10,195
+2,cold,15,237
+4,headache,11,167
+4,cold,11,216
+1,routine checkup,8,134
+4,fever,1,30
+2,fever,6,98
+3,stomach ache,2,52
+3,chest pain,6,150
+5,fever,2,50
+1,cold,8,152
+4,routine checkup,8,141
+2,fever,9,144
+4,cold,3,50
+3,headache,0,17
+1,stomach ache,15,217
+3,fracture,7,124
+2,stomach ache,5,109
+3,fracture,4,91
+1,routine checkup,4,81
+5,routine checkup,10,186
+4,chest pain,9,168
+2,fever,10,148
+1,stomach ache,3,75
+4,headache,7,99
+5,stomach ache,8,134
+4,chest pain,2,67
+4,fracture,8,160
+1,headache,2,38
+4,chest pain,4,76
+4,headache,7,105
+3,cold,6,118
+5,cold,15,287
+5,stomach ache,6,122
+5,chest pain,4,86
+5,chest pain,7,144
+1,headache,9,158
+2,chest pain,1,38
+2,fever,0,12
+4,cold,2,38
+5,stomach ache,0,25
+2,chest pain,15,284
+2,routine checkup,9,150
+2,stomach ache,14,249
+5,chest pain,15,222
+3,stomach ache,12,186
+5,cold,7,140
+2,cold,1,27
+2,headache,6,126
+3,stomach ache,10,180
+3,fever,2,48
+5,cold,4,64
+1,stomach ache,15,262
+3,cold,9,161
+5,cold,13,186
+3,chest pain,1,47
+2,routine checkup,0,25
+3,fever,11,204
+2,stomach ache,8,129
+1,chest pain,1,40
+4,routine checkup,6,90
+3,routine checkup,10,181
+1,fracture,9,156
+4,fever,10,176
+5,fever,4,78
+5,chest pain,8,131
+2,stomach ache,15,247
+1,routine checkup,11,179
+1,cold,6,123
+5,fracture,5,121
+3,fever,2,49
+4,fracture,2,62
+3,fracture,0,33
+2,cold,10,133
+1,cold,1,28
+2,headache,14,267
+5,stomach ache,15,257
+1,headache,14,251
+5,fracture,9,150
+2,routine checkup,11,171
+3,cold,8,127
+4,cold,15,268
+1,headache,0,13
+2,cold,15,197
+3,chest pain,12,194
+5,cold,5,83
+1,fever,9,176
+2,headache,3,52
+1,routine checkup,5,76
+4,fracture,5,111
+4,routine checkup,8,130
+5,routine checkup,0,24
+2,chest pain,2,64
+4,headache,5,93
+4,chest pain,15,270
+4,chest pain,6,134
+4,routine checkup,1,37
+2,headache,9,180
+3,chest pain,1,48
+3,headache,3,58
+3,cold,2,57
+5,fracture,13,197
+4,headache,6,96
+4,cold,14,210
+2,headache,2,50
+2,headache,12,171
+2,fracture,11,194
+1,routine checkup,1,28
+2,routine checkup,2,49
+4,chest pain,13,196
+5,fracture,12,190
+2,cold,15,240
+4,routine checkup,6,115
+3,stomach ache,3,66
+5,fever,5,106
+3,stomach ache,3,63
+2,fracture,13,196
+3,routine checkup,3,68
+1,chest pain,3,62
+3,cold,13,227
+1,stomach ache,15,225
+5,cold,14,268
+1,fracture,7,135
+2,cold,0,18
+5,stomach ache,4,73
+2,routine checkup,7,147
+4,fever,8,118
+1,routine checkup,15,212
+1,fracture,5,112
+4,fever,9,141
+4,cold,15,257
+5,routine checkup,1,33
+3,fever,4,69
+5,fever,9,147
+3,stomach ache,11,174
+1,fracture,10,146
+1,cold,9,154
+5,fever,10,132
+4,routine checkup,13,243
+3,fever,4,67
+5,chest pain,10,158
+2,fracture,13,245
+1,chest pain,11,155
+5,routine checkup,7,145
+3,stomach ache,3,62
+5,headache,14,211
+3,headache,11,153
+3,fracture,15,260
+3,fever,2,45
+5,headache,12,231
+4,fracture,9,183
+3,chest pain,8,171
+1,cold,9,166
+5,fracture,13,200
+4,headache,11,160
+1,chest pain,6,132
+2,routine checkup,9,142
+4,chest pain,9,183
+4,routine checkup,12,172
+2,fever,4,81
+3,routine checkup,9,155
+4,stomach ache,5,108
+4,fever,7,122
+4,stomach ache,8,127
+3,chest pain,5,123
+4,headache,5,99
+4,chest pain,5,105
+5,routine checkup,6,106
+3,routine checkup,6,125
+2,cold,1,29
+3,cold,9,183
+5,headache,6,102
+2,headache,10,157
+5,chest pain,1,45
+5,stomach ache,8,160
+2,fracture,9,187
+4,chest pain,12,215
+1,fever,6,107
+5,fracture,7,144
+1,stomach ache,10,141
+4,chest pain,9,174
+5,stomach ache,6,101
+3,fever,10,197
+1,routine checkup,10,193
+1,routine checkup,2,55
+5,routine checkup,0,22
+1,headache,5,80
+5,routine checkup,3,64
+5,cold,9,133
+3,cold,15,260
+3,cold,15,198
+3,fever,4,70
+2,fracture,8,129
+3,chest pain,11,213
+1,fever,10,175
+2,headache,1,32
+3,headache,6,101
+4,stomach ache,12,231
+2,fracture,5,116
+5,routine checkup,0,18
+1,headache,4,74
+5,fever,11,212
+3,chest pain,7,131
+4,stomach ache,10,183
+4,fracture,12,183
+2,routine checkup,9,169
+2,cold,5,82
+1,chest pain,15,257
+3,routine checkup,9,153
+2,headache,15,212
+3,fracture,11,237
+2,routine checkup,6,111
+1,chest pain,0,38
+3,headache,2,51
+4,stomach ache,9,173
+1,cold,1,30
+1,headache,10,151
+1,headache,12,184
+3,cold,0,21
+3,chest pain,1,55
+5,fracture,13,189
+2,fracture,5,120
+3,stomach ache,5,111
+1,fever,10,164
+3,cold,3,62
+5,fever,10,133
+5,stomach ache,13,179
+5,fracture,12,198
+1,headache,14,268
+4,fever,3,53
+4,stomach ache,13,184
+5,fever,7,132
+3,fever,15,248
+5,fever,0,13
+1,routine checkup,15,285
+4,chest pain,1,41
+2,cold,7,116
+4,fever,9,161
+5,headache,9,156
+5,headache,9,149
+2,headache,12,217
+2,headache,10,144
+4,cold,5,82
+2,cold,2,49
+1,fever,14,239
+4,stomach ache,8,153
+2,stomach ache,10,146
+1,stomach ache,10,166
+2,routine checkup,8,161
+1,headache,13,206
+5,stomach ache,4,72
+4,cold,5,108
+5,fracture,11,166
+1,headache,12,228
+2,routine checkup,4,68
+3,headache,7,132
+4,headache,5,98
+4,fracture,14,207
+4,stomach ache,12,208
+4,chest pain,12,178
+3,fever,11,172
+1,routine checkup,15,215
+3,fever,5,104
+1,fever,1,28
+1,headache,14,206
+5,fracture,2,52
+1,chest pain,11,163
+3,fever,2,47
+1,fracture,14,259
+5,fracture,10,209
+4,fracture,4,87
+5,fever,13,170
+5,fever,12,216
+3,headache,5,113
+4,chest pain,7,125
+2,chest pain,8,144
+1,headache,9,151
+3,headache,10,153
+3,stomach ache,15,276
+5,cold,3,51
+4,chest pain,10,167
+3,routine checkup,1,42
+4,routine checkup,1,41
+1,fever,15,251
+5,chest pain,11,186
+1,headache,7,103
+5,chest pain,12,237
+4,fracture,15,226
+2,cold,14,228
+1,fever,5,106
+2,stomach ache,0,16
+3,chest pain,14,238
+2,fever,2,40
+5,chest pain,3,73
+3,cold,7,149
+3,cold,7,129
+5,stomach ache,7,143
+1,cold,12,157
+4,chest pain,11,182
+4,cold,7,103
+3,fracture,2,65
+1,fever,10,140
+2,chest pain,6,114
+5,cold,13,207
+1,chest pain,4,94
+4,chest pain,6,123
+2,fracture,9,165
+1,fever,13,232
+3,routine checkup,13,192
+3,fracture,8,141
+5,routine checkup,13,225
+1,cold,12,218
+5,chest pain,4,112
+1,headache,2,37
+5,fever,14,238
+3,stomach ache,10,177
+3,fever,8,118
+5,cold,7,141
+2,fracture,13,222
+4,routine checkup,13,250
+3,headache,13,252
+2,fracture,14,208
+2,stomach ache,3,68
+4,routine checkup,15,241
+4,fracture,2,55
+3,cold,15,261
+3,routine checkup,9,147
+4,stomach ache,11,161
+4,headache,1,27
+1,chest pain,12,244
+5,stomach ache,1,35
+1,chest pain,4,81
+4,stomach ache,5,79
+2,fever,8,143
+3,stomach ache,14,251
+3,cold,5,82
+5,headache,2,45
+4,stomach ache,6,89
+4,routine checkup,2,54
+5,cold,0,14
+1,fracture,9,192
+2,stomach ache,6,93
+1,stomach ache,11,201
+4,chest pain,12,197
+1,chest pain,13,265
+2,fracture,0,26
+3,cold,3,74
+3,headache,5,93
+5,routine checkup,11,155
+3,fever,3,72
+2,fever,1,35
+4,headache,9,149
+4,routine checkup,1,36
+5,fever,15,192
+2,stomach ache,5,105
+4,stomach ache,0,24
+4,fever,4,73
+3,fracture,0,33
+3,fracture,6,133
+5,headache,14,252
+2,fever,14,227
+5,stomach ache,15,202
+2,fracture,10,199
+5,chest pain,10,175
+2,fever,10,172
+1,fever,10,192
+1,chest pain,12,204
+1,headache,13,183
+5,fever,1,32
+2,fracture,13,201
+2,routine checkup,3,67
+1,chest pain,1,51
+2,chest pain,4,107
+1,stomach ache,0,18
+2,stomach ache,9,133
+2,stomach ache,14,185
+1,stomach ache,3,52
+3,cold,10,151
+5,routine checkup,7,127
+4,fever,6,103
+1,fever,12,202
+5,chest pain,3,69
+1,fever,2,51
+4,cold,10,168
+1,cold,15,220
+4,stomach ache,13,185
+1,stomach ache,11,162
+3,chest pain,8,150
+2,routine checkup,8,121
+4,chest pain,6,128
+3,cold,3,62
+1,headache,10,152
+4,cold,13,211
+5,chest pain,2,52
+3,chest pain,11,181
+3,routine checkup,7,121
+1,cold,14,180
+1,stomach ache,5,86
+3,routine checkup,3,63
+5,headache,14,208
+1,cold,12,190
+5,fever,4,83
+3,stomach ache,5,94
+2,cold,1,29
+4,cold,2,37
+3,headache,3,53
+2,stomach ache,7,120
+3,headache,9,181
+2,cold,13,237
+5,routine checkup,0,24
+4,fever,12,208
+4,cold,10,142
+3,headache,5,88
+2,cold,3,61
+3,fever,5,103
+1,fracture,2,55
+1,fever,7,125
+5,chest pain,12,198
+2,stomach ache,5,86
+5,cold,15,227
+5,fever,0,14
+5,chest pain,6,125
+3,chest pain,13,200
+4,cold,10,145
+1,routine checkup,9,128
+3,cold,14,230
+4,headache,11,213
+1,stomach ache,0,19
+2,fever,2,54
+2,cold,11,172
+4,fracture,5,115
+3,fever,13,199
+3,fever,1,33
+1,fever,11,169
+1,chest pain,8,175
+3,routine checkup,15,294
+5,stomach ache,11,157
+4,cold,14,224
+2,routine checkup,5,82
+3,stomach ache,0,20
+1,cold,9,130
+2,chest pain,13,209
+2,chest pain,14,222
+3,cold,10,188
+3,fever,1,33
+5,fever,11,200
+3,cold,15,262
+2,stomach ache,15,261
+2,routine checkup,5,102
+4,fracture,4,109
+3,fever,15,275
+1,headache,14,265
+1,fracture,3,63
+2,headache,11,202
+2,cold,10,143
+3,cold,7,110
+5,chest pain,14,214
+4,stomach ache,5,79
+2,routine checkup,4,86
+2,cold,7,111
+4,stomach ache,0,15
+1,cold,13,185
+4,chest pain,8,146
+1,chest pain,11,167
+4,fever,8,149
+1,fracture,2,60
+4,stomach ache,12,239
+1,routine checkup,7,106
+2,headache,8,112
+1,chest pain,10,196
+5,cold,10,147
+2,fever,15,257
+4,headache,11,216
+4,stomach ache,9,149
+1,fever,10,155
+3,cold,12,202
+2,cold,8,125
+4,fever,2,51
+1,routine checkup,6,128
+2,fracture,14,284
+1,routine checkup,1,34
+1,routine checkup,3,68
+4,cold,6,90
+3,routine checkup,10,202
+2,chest pain,11,189
+1,fever,1,27
+5,headache,7,138
+1,fever,11,181
+2,fracture,8,136
+1,fever,11,143
+4,fracture,10,165
+1,cold,11,200
+4,cold,8,117
+4,fever,0,12
+1,headache,11,213
+3,headache,12,212
+5,cold,5,98
+3,routine checkup,8,171
+3,fever,8,115
+4,headache,8,109
+2,stomach ache,4,96
+3,headache,14,185
+3,cold,13,251
+3,routine checkup,9,137
+2,cold,8,154
+3,headache,4,84
+4,routine checkup,12,239
+3,cold,7,144
+1,chest pain,13,249
+3,cold,6,98
+5,fracture,15,265
+1,headache,2,40
+3,stomach ache,6,122
+4,chest pain,2,72
+5,routine checkup,13,198
+3,routine checkup,10,175
+5,cold,5,100
+3,fever,11,195
+4,headache,11,210
+1,chest pain,8,135
+4,fracture,15,258
+3,stomach ache,9,187
+5,headache,3,72
+1,cold,10,196
+5,fever,8,157
+1,chest pain,14,212
+5,routine checkup,9,161
+3,fracture,12,235
+2,fever,4,62
+2,chest pain,15,276
+1,fracture,9,152
+4,stomach ache,4,64
+2,fever,8,153
+4,fracture,2,74
+3,fracture,15,227
+3,cold,0,19
+5,routine checkup,12,207
+1,cold,5,81
+2,fever,13,196
+1,cold,10,173
+4,routine checkup,0,19
+2,chest pain,9,200
+1,cold,4,68
+4,fracture,5,97
+4,fracture,1,49
+1,headache,1,26
+3,headache,12,239
+3,headache,10,201
+2,routine checkup,4,95
+4,chest pain,0,33
+5,headache,10,182
+4,headache,11,201
+4,cold,2,42
+3,fracture,10,214
+2,fever,11,156
+3,fever,6,129
+4,fracture,2,57
+4,fever,3,53
+2,headache,5,82
+2,routine checkup,0,25
+2,fracture,12,188
+4,chest pain,9,197
+4,chest pain,5,109
+1,fracture,11,222
+1,stomach ache,8,135
+2,chest pain,13,259
+2,fracture,7,135
+1,cold,9,148
+2,fever,13,174
+5,cold,6,96
+1,routine checkup,14,266
+1,chest pain,13,216
+3,routine checkup,14,246
+5,stomach ache,9,159
+1,fracture,5,95
+1,fever,13,207
+2,routine checkup,0,23
+4,cold,10,175
+1,routine checkup,15,274
+5,fever,7,129
+4,headache,10,186
+4,headache,12,159
+1,cold,7,135
+5,fracture,2,66
+3,fracture,9,160
+3,cold,12,209
+3,cold,1,38
+5,routine checkup,6,94
+5,routine checkup,12,188
+1,fever,3,67
+2,fracture,8,132
+5,headache,5,103
+4,fracture,5,106
+3,fracture,5,104
+2,stomach ache,3,64
+4,chest pain,14,198
+5,routine checkup,15,278
+1,fever,0,10
+1,chest pain,12,229
+3,fracture,3,86
+3,fracture,1,49
+1,cold,15,250
+3,fever,0,17
+5,chest pain,1,55
+4,fever,0,15
+2,stomach ache,13,191
+5,cold,8,130
+2,routine checkup,9,178
+3,fever,6,92
+1,chest pain,12,215
+4,fever,12,186
+5,stomach ache,11,196
+4,headache,13,238
+4,stomach ache,15,229
+1,fever,3,60
+5,chest pain,11,158
+4,cold,10,197
+1,fracture,15,248
+3,fracture,0,31
+1,fever,12,169
+3,cold,13,239
+2,routine checkup,8,145
+4,routine checkup,8,121
+1,fracture,2,66
+1,cold,14,194
+4,fever,14,213
+5,fever,0,14
+1,fever,1,29
+1,fracture,7,153
+2,cold,10,136
+4,fracture,6,132
+3,cold,7,149
+4,fracture,7,134
+1,chest pain,0,34
+5,fever,0,17
+4,cold,3,66
+2,stomach ache,8,152
+2,headache,13,212
+2,fever,6,102
+4,fever,12,185
+5,chest pain,8,184
+3,headache,10,198
+4,cold,4,73
+1,fever,7,109
+4,chest pain,11,164
+3,routine checkup,8,124
+2,chest pain,5,112
+2,routine checkup,12,210
+4,chest pain,7,153
+3,fracture,10,155
+5,stomach ache,1,41
+1,fracture,1,47
+5,cold,1,34
+5,fever,5,102
+5,headache,0,13
+1,headache,0,10
+5,fever,0,13
+5,fracture,5,110
+5,headache,12,206
+4,fever,9,143
+4,stomach ache,9,134
+4,cold,2,42
+2,fracture,12,203
+1,headache,12,231
+4,headache,10,162
+1,fracture,2,66
+4,fracture,3,73
+2,chest pain,12,225
+5,routine checkup,6,127
+2,headache,9,159
+5,fever,13,210
+5,cold,13,226
+1,cold,9,150
+5,chest pain,12,173
+1,chest pain,7,149
+1,chest pain,10,156
+5,chest pain,4,82
+2,cold,7,103
+3,routine checkup,15,250
+2,stomach ache,13,255
+1,fracture,9,150
+2,routine checkup,4,87
+3,routine checkup,10,200
+4,cold,11,156
+2,fracture,13,233
+5,cold,13,249
+5,routine checkup,12,169
+3,stomach ache,15,201
+4,headache,11,156
+5,cold,15,288
+5,fever,13,246
+4,headache,10,173
+5,fever,3,59
+3,headache,15,201
+3,stomach ache,0,21
+5,stomach ache,11,159
+4,routine checkup,11,215
+2,fever,8,145
+5,headache,3,57
+1,cold,8,134
+2,headache,7,107
+3,chest pain,6,135
+1,fever,15,250
+1,stomach ache,1,31
+5,fracture,12,212
+4,fracture,1,44
+4,fracture,15,216
+5,fracture,4,100
+2,headache,12,210
+2,headache,2,47
+1,cold,7,140
+4,stomach ache,9,137
+3,chest pain,14,295
+5,fever,10,158
+3,fracture,9,168
+4,headache,1,27
+1,fracture,8,139
+1,headache,11,213
+3,stomach ache,12,206
+1,routine checkup,8,145
+2,stomach ache,9,132
+3,cold,2,46
+5,headache,0,16
+1,fever,14,183
+5,fracture,12,208
+4,routine checkup,12,187
+1,fever,8,106
+4,fracture,0,39
+3,chest pain,2,61
+2,fever,8,127
+1,cold,6,119
+5,routine checkup,5,94
+5,chest pain,6,141
+5,fever,3,58
+4,cold,10,184
+3,fever,8,114
+4,routine checkup,1,36
+1,fracture,5,94
+5,chest pain,6,130
+5,fracture,1,55
+4,routine checkup,15,234
+2,stomach ache,5,90
+5,chest pain,4,96
+4,cold,14,237
+3,stomach ache,9,168
+4,headache,9,158
+3,fracture,12,187
+2,fracture,11,191
+4,routine checkup,6,93
+4,chest pain,13,230
+2,headache,14,255
+4,stomach ache,6,116
+3,headache,2,56
+5,chest pain,15,246
+5,routine checkup,14,253
+2,routine checkup,5,98
+4,fracture,13,203
+2,routine checkup,3,59
+5,routine checkup,5,88
+3,fever,2,53
+4,fever,12,205
+3,cold,6,95
+4,cold,3,60
+3,chest pain,12,213
+4,fracture,8,163
+5,stomach ache,14,214
+1,fracture,14,205
+3,stomach ache,9,139
+3,routine checkup,4,85
+2,stomach ache,7,124
+1,headache,4,76
+5,routine checkup,3,68
+5,cold,10,178
+5,cold,8,129
+5,stomach ache,12,171
+2,stomach ache,10,150
+4,fracture,15,225
+2,cold,14,236
+4,routine checkup,8,159
+5,fracture,5,98
+5,routine checkup,6,97
+3,chest pain,3,71
+3,routine checkup,10,177
+2,fracture,11,202
+1,headache,9,137
+2,chest pain,12,230
+4,cold,1,31
+1,stomach ache,4,84
+3,fever,14,260
+5,stomach ache,10,158
+1,routine checkup,11,179
+2,headache,8,161
+3,cold,3,62
+1,cold,13,247
+1,fever,10,136
+2,stomach ache,12,190
+2,fracture,10,148
+4,fracture,12,205
+3,headache,12,239
+5,fracture,3,75
+3,headache,12,224
+1,chest pain,3,83
+1,fever,10,195
+5,routine checkup,2,53
+1,routine checkup,10,166
+3,fever,12,188
+3,routine checkup,10,181
+1,cold,12,208
+3,routine checkup,5,117
+1,chest pain,12,228
+4,cold,11,203
+1,cold,13,184
+3,stomach ache,8,130
+2,fever,0,12
+3,routine checkup,5,89
+3,chest pain,1,58
+3,cold,10,189
+2,stomach ache,2,49
+4,headache,1,24
+1,stomach ache,12,215
+2,fever,0,17
+5,routine checkup,12,234
+3,headache,3,59
+2,fracture,1,52
+2,stomach ache,1,38
+3,chest pain,10,190
+2,fracture,4,81
+3,chest pain,12,188
+5,cold,11,193
+1,headache,2,46
+2,fever,7,130
+4,headache,0,17
+4,routine checkup,14,183
+5,fever,0,17
+4,headache,7,103
+3,cold,3,54
+4,fever,13,197
+2,fever,14,265
+2,fracture,3,78
+4,chest pain,14,255
+4,headache,11,157
+5,stomach ache,1,36
+3,chest pain,5,124
+5,stomach ache,12,227
+4,routine checkup,11,179
+1,fever,6,113
+3,headache,3,65
+3,stomach ache,9,172
+2,fever,4,69
+2,headache,14,195
+1,headache,8,112
+2,stomach ache,12,199
+4,fracture,10,192
+1,routine checkup,10,142
+3,chest pain,3,90
+5,cold,15,213
+4,fever,7,110
+3,fracture,6,128
+1,cold,10,161
+3,fever,1,36
+3,cold,4,90
+3,cold,1,33
+1,stomach ache,11,211
+2,headache,10,197
+1,routine checkup,9,180
+3,routine checkup,12,237
+5,headache,4,89
+4,headache,12,208
+4,headache,15,211
+4,headache,8,124
+1,fracture,1,47
+1,stomach ache,6,130
+1,headache,10,151
+2,cold,1,31
+5,cold,5,102
+5,routine checkup,8,132
+4,stomach ache,8,146
+2,headache,15,243
+2,chest pain,3,86
+5,headache,5,88
+5,fracture,2,66
+2,routine checkup,15,265
+4,chest pain,7,123
+4,routine checkup,10,187
+3,headache,14,213
+3,fever,15,293
+4,chest pain,0,34
+2,chest pain,12,212
+4,fracture,3,80
+4,cold,10,152
+3,routine checkup,13,241
+5,stomach ache,3,60
+1,chest pain,12,178
+2,chest pain,9,190
+3,chest pain,6,111
+4,routine checkup,9,160
+2,chest pain,2,69
+3,fever,6,108
+3,cold,7,127
+2,chest pain,1,55
+4,routine checkup,5,81
+5,headache,3,68
+3,cold,13,239
+2,cold,14,241
+3,routine checkup,1,42
+4,fever,12,160
+5,cold,4,75
+5,fracture,5,130
+3,routine checkup,5,115
+5,routine checkup,4,95
+2,stomach ache,1,40
+2,routine checkup,5,96
+5,fracture,0,27
+2,fever,6,85
+5,headache,6,96
+5,chest pain,11,233
+4,stomach ache,2,59
+4,headache,6,91
+3,chest pain,5,90
+3,cold,12,178
+4,fracture,4,87
+3,stomach ache,6,122
+1,fracture,8,139
+4,fracture,0,26
+3,stomach ache,2,59
+1,stomach ache,4,85
+4,fever,5,95
+3,cold,12,191
+1,headache,2,44
+1,stomach ache,1,34
+5,headache,4,77
+1,chest pain,11,161
+4,routine checkup,8,135
+1,chest pain,11,168
+3,headache,6,122
+5,cold,7,105
+4,routine checkup,14,186
+4,headache,10,197
+3,fever,12,163
+5,chest pain,0,34
+4,chest pain,2,64
+2,fracture,10,162
+1,fracture,12,248
+4,cold,0,15
+5,chest pain,4,102
+4,routine checkup,10,183
+5,routine checkup,0,17
+3,chest pain,14,221
+4,stomach ache,14,212
+4,cold,11,200
+3,stomach ache,7,126
+5,fracture,14,254
+2,chest pain,10,164
+2,fever,0,15
+4,stomach ache,3,71
+2,cold,6,94
+3,stomach ache,13,181
+2,headache,14,222
+4,headache,8,151
+3,fracture,0,43
+2,fracture,6,127
+1,chest pain,15,240
+3,routine checkup,12,180
+3,stomach ache,0,21
+3,headache,15,213
+4,cold,2,46
+2,fever,1,33
+2,fracture,1,39
+5,headache,12,232
+2,stomach ache,11,178
+4,headache,1,26
+5,fracture,5,96
+5,cold,9,133
+3,headache,2,54
+2,stomach ache,12,174
+1,cold,13,198
+1,fracture,13,218
+1,chest pain,14,289
+1,stomach ache,10,145
+3,cold,4,79
+2,routine checkup,13,207
+5,fever,6,101
+4,routine checkup,15,250
+2,headache,2,46
+5,stomach ache,10,167
+4,cold,12,171
+2,chest pain,5,112
+3,fracture,9,147
+3,stomach ache,2,50
+5,routine checkup,9,170
+2,routine checkup,9,159
+5,cold,2,48
+5,fracture,4,107
+1,fever,4,76
+4,chest pain,15,269
+3,routine checkup,2,48
+5,stomach ache,1,31
+2,headache,10,133
+5,headache,3,52
+5,routine checkup,1,34
+1,headache,8,109
+2,stomach ache,11,218
+4,chest pain,1,39
+2,fracture,1,51
+1,stomach ache,3,73
+4,routine checkup,10,198
+1,chest pain,15,228
+5,fever,15,253
+5,headache,2,47
+2,stomach ache,6,92
+5,headache,12,160
+3,chest pain,15,300
+3,routine checkup,13,228
+5,fever,10,142
+3,routine checkup,14,239
+1,headache,11,214
+2,stomach ache,12,174
+3,chest pain,6,104
+2,fracture,3,87
+2,cold,2,38
+1,cold,2,50
+1,stomach ache,5,97
+5,routine checkup,7,101
+3,fracture,3,76
+2,cold,4,90
+4,fever,2,50
+3,fever,1,33
+4,cold,13,249
+3,cold,10,147
+4,stomach ache,9,123
+1,routine checkup,14,184
+4,fracture,12,205
+3,routine checkup,1,34
+4,fever,5,74
+1,stomach ache,12,197
+1,fracture,8,167
+5,stomach ache,12,223
+5,fracture,9,171
+1,routine checkup,0,16
+3,routine checkup,13,198
+2,fever,6,96
+5,chest pain,11,188
+5,fracture,7,128
+3,fracture,0,34
+1,headache,3,55
+2,routine checkup,0,24
+4,fever,4,75
+3,cold,2,51
+4,routine checkup,4,77
+4,stomach ache,5,90
+3,fever,13,255
+1,routine checkup,10,193
+1,fracture,10,178
+1,fracture,9,173
+5,fever,4,82
+1,fracture,2,66
+4,cold,11,179
+2,stomach ache,1,31
+4,cold,7,96
+5,headache,13,207
+5,stomach ache,6,129
+2,chest pain,7,157
+1,cold,4,62
+3,routine checkup,1,39
+2,headache,1,36
+5,fracture,5,100
+4,stomach ache,12,212
+2,headache,3,54
+2,fracture,1,41
+3,cold,7,133
+5,routine checkup,4,77
+1,stomach ache,8,145
+1,headache,9,151
+5,fracture,6,112
+2,cold,14,214
+3,fracture,5,120
+5,routine checkup,12,198
+4,fracture,13,255
+3,headache,15,287
+4,headache,11,200
+1,cold,11,189
+5,cold,12,217
+4,routine checkup,0,24
+3,fracture,8,159
+3,chest pain,2,77
+5,headache,6,104
+1,cold,13,168
+5,headache,6,126
+1,stomach ache,10,195
+1,chest pain,4,92
+4,fever,5,75
+4,stomach ache,13,236
+1,fracture,5,105
+5,cold,13,209
+4,chest pain,15,213
+3,chest pain,10,180
+5,routine checkup,8,138
+4,routine checkup,10,156
+1,stomach ache,6,131
+4,routine checkup,8,168
+1,cold,15,253
+3,fracture,1,51
+4,fracture,13,242
+3,fever,14,199
+5,stomach ache,0,22
+1,headache,0,14
+4,chest pain,1,40
+5,stomach ache,5,99
+1,fracture,6,121
+3,routine checkup,9,151
+2,headache,14,210
+3,headache,9,130
+1,routine checkup,9,184
+5,routine checkup,14,242
+3,routine checkup,12,205
+3,headache,14,191
+3,chest pain,0,39
+3,stomach ache,1,39
+1,chest pain,9,184
+3,cold,10,170
+5,fever,2,40
+1,headache,4,82
+5,cold,14,254
+2,fracture,0,39
+1,cold,12,169
+4,fever,8,128
+3,routine checkup,7,121
+1,chest pain,4,108
+3,cold,15,213
+3,routine checkup,12,205
+2,cold,6,120
+4,chest pain,14,272
+4,fever,2,47
+1,stomach ache,14,240
+4,chest pain,14,211
+5,cold,10,176
+2,chest pain,4,112
+3,headache,0,17
+2,fracture,10,148
+3,fever,12,234
+3,fever,2,54
+4,chest pain,6,136
+5,cold,0,14
+4,fever,5,93
+5,chest pain,6,140
+3,fever,5,97
+5,chest pain,12,210
+5,fracture,10,186
+3,cold,7,107
+5,fracture,3,63
+3,fever,3,62
+4,stomach ache,9,143
+1,stomach ache,4,69
+3,fever,7,112
+4,fever,6,88
+3,stomach ache,15,282
+3,routine checkup,13,193
+1,fracture,9,164
+5,routine checkup,15,199
+2,cold,0,13
+1,cold,8,110
+1,chest pain,1,48
+4,fever,13,251
+5,chest pain,8,136
+2,cold,8,157
+5,fracture,10,207
+2,fever,9,129
+5,routine checkup,1,37
+1,headache,13,192
+4,chest pain,2,59
+5,fracture,9,138
+1,stomach ache,4,73
+1,fracture,8,156
+2,fever,15,254
+1,fracture,1,49
+2,headache,11,192
+3,stomach ache,8,124
+1,cold,10,152
+5,cold,11,202
+1,fracture,4,89
+1,fracture,2,63
+3,headache,9,155
+3,routine checkup,12,246
+5,stomach ache,6,103
+2,headache,2,48
+5,fever,6,120
+1,chest pain,9,182
+3,fever,11,198
+1,fracture,6,134
+4,cold,14,186
+1,headache,2,46
+4,stomach ache,11,158
+5,headache,3,56
+2,fever,12,193
+4,headache,12,172
+5,chest pain,10,210
+1,stomach ache,6,106
+2,routine checkup,5,91
+5,cold,12,205
+1,headache,8,118
+3,chest pain,14,272
+1,cold,3,50
+3,fever,8,163
+5,routine checkup,3,59
+4,cold,13,185
+4,cold,9,157
+5,headache,0,13
+2,cold,1,29
+2,routine checkup,15,289
+4,fever,10,133
+2,fever,15,267
+5,chest pain,14,227
+1,stomach ache,8,133
+3,fracture,9,142
+2,routine checkup,10,180
+5,stomach ache,4,85
+2,chest pain,10,187
+3,stomach ache,14,252
+1,fever,5,83
+4,headache,13,194
+3,chest pain,8,157
+4,fracture,14,252
+3,fracture,9,178
+1,cold,6,90
+3,fracture,9,165
+1,cold,5,101
+5,fracture,13,247
+1,fracture,0,31
+5,chest pain,12,193
+2,cold,14,236
+2,cold,5,72
+2,cold,13,236
+4,headache,7,121
+2,cold,12,182
+5,fracture,5,100
+2,routine checkup,5,91
+2,headache,8,149
+3,fever,6,125
+2,headache,5,73
+5,stomach ache,8,150
+2,headache,6,102
+4,chest pain,14,246
+4,routine checkup,0,17
+5,fracture,3,72
+3,fever,0,22
+1,fever,15,271
+4,cold,8,142
+5,chest pain,1,54
+5,routine checkup,3,69
+5,stomach ache,9,151
+3,stomach ache,15,253
+2,fracture,12,207
+4,routine checkup,10,181
+3,cold,5,97
+1,chest pain,3,60
+2,chest pain,6,147
+4,routine checkup,9,124
+3,chest pain,5,121
+2,chest pain,12,182
+2,routine checkup,0,23
+5,fever,14,252
+5,fever,13,187
+1,fracture,3,71
+2,fever,10,155
+1,stomach ache,9,157
+3,chest pain,3,78
+3,cold,5,97
+1,routine checkup,8,155
+1,fever,13,181
+2,chest pain,11,224
+4,stomach ache,8,142
+5,headache,3,59
+4,headache,12,216
+4,fever,10,133
+1,chest pain,10,164
+1,stomach ache,5,101
+1,headache,10,195
+1,fever,0,15
+4,chest pain,11,165
+1,chest pain,6,115
+2,fever,0,14
+4,chest pain,1,42
+3,headache,4,85
+1,routine checkup,1,31
+3,fever,0,17
+1,fracture,4,106
+3,chest pain,4,97
+1,routine checkup,5,92
+5,chest pain,6,109
+5,fever,4,70
+5,cold,4,85
+5,fracture,0,26
+4,fever,5,101
+4,routine checkup,3,73
+1,chest pain,10,198
+4,cold,3,72
+3,fracture,15,287
+5,stomach ache,7,143
+2,chest pain,1,52
+4,routine checkup,3,53
+2,routine checkup,2,44
+3,cold,12,239
+1,fever,5,100
+2,stomach ache,5,103
+2,headache,6,87
+3,fever,1,35
+1,fever,12,217
+4,routine checkup,6,121
+4,chest pain,13,188
+1,fracture,0,33
+5,cold,15,243
+5,routine checkup,0,19
+3,fever,7,149
+5,headache,13,221
+2,chest pain,8,179
+1,cold,10,156
+4,fracture,9,155
+5,routine checkup,1,36
+4,stomach ache,11,190
+2,fever,11,170
+4,routine checkup,3,72
+5,fever,10,134
+3,cold,9,162
+3,headache,11,206
+4,fracture,9,134
+5,headache,8,119
+4,routine checkup,1,39
+5,cold,2,49
+5,routine checkup,2,48
+3,fever,2,49
+1,headache,3,49
+4,headache,9,169
+5,fever,6,108
+4,headache,11,212
+5,fever,12,204
+4,routine checkup,1,39
+4,stomach ache,0,22
+4,cold,9,123
+3,cold,8,161
+3,routine checkup,13,182
+5,headache,13,248
+1,stomach ache,3,68
+2,stomach ache,7,122
+4,cold,7,135
+2,fracture,7,160
+5,cold,0,16
+3,routine checkup,8,147
+3,chest pain,12,207
+3,stomach ache,0,23
+5,headache,4,76
+3,cold,1,41
+5,routine checkup,12,222
+1,cold,0,15
+3,routine checkup,3,66
+5,fever,5,76
+2,routine checkup,10,163
+1,chest pain,5,92
+5,chest pain,6,103
+1,cold,1,30
+4,headache,3,58
+3,headache,11,184
+5,stomach ache,15,285
+3,headache,3,58
+5,cold,14,266
+1,stomach ache,9,162
+1,stomach ache,7,112
+5,routine checkup,2,46
+4,cold,11,178
+1,routine checkup,5,84
+5,cold,8,146
+2,fever,12,185
+2,fever,9,140
+4,fracture,5,109
+3,chest pain,12,183
+3,stomach ache,7,132
+3,stomach ache,7,140
+2,headache,11,194
+3,fever,15,247
+1,routine checkup,6,121
+5,headache,3,64
+2,cold,4,64
+3,fracture,4,103
+5,fracture,2,73
+1,stomach ache,9,129
+3,cold,5,98
+1,chest pain,5,121
+2,fever,8,121
+5,fever,0,17
+2,routine checkup,9,138
+1,fracture,1,43
+1,routine checkup,12,195
+2,chest pain,14,278
+4,stomach ache,11,159
+1,headache,8,135
+2,fracture,12,206
+4,chest pain,11,176
+3,headache,10,177
+2,fracture,0,33
+4,chest pain,15,283
+1,fracture,14,289
+3,fever,8,127
+3,fever,3,68
+4,routine checkup,3,56
+5,stomach ache,6,127
+4,fracture,15,249
+1,chest pain,3,84
+4,cold,6,92
+2,fracture,12,237
+1,fever,15,252
+3,cold,13,238
+2,headache,4,74
+5,headache,1,27
+3,chest pain,11,238
+1,routine checkup,9,169
+3,chest pain,12,251
+3,cold,3,67
+2,chest pain,15,302
+4,routine checkup,0,21
+1,stomach ache,6,109
+2,fracture,5,105
+1,fever,12,228
+3,chest pain,8,132
+1,cold,13,194
+5,routine checkup,2,53
+5,headache,15,243
+5,routine checkup,11,208
+4,headache,10,176
+2,cold,14,199
+5,fever,11,179
+2,routine checkup,5,114
+3,fracture,9,187
+4,cold,14,264
+3,fever,8,113
+2,fracture,10,210
+5,chest pain,10,166
+2,stomach ache,15,235
+5,stomach ache,4,81
+1,chest pain,15,285
+2,headache,1,26
+3,headache,2,48
+1,fracture,12,219
+3,stomach ache,8,163
+5,fever,4,77
+2,stomach ache,3,71
+2,cold,9,157
+2,fever,6,102
+3,chest pain,11,197
+2,chest pain,13,208
+1,fever,11,164
+5,chest pain,5,115
+3,cold,10,139
+5,headache,1,28
+2,headache,0,12
+1,cold,6,122
+2,fracture,5,125
+1,headache,4,82
+3,stomach ache,10,153
+4,cold,12,221
+1,headache,1,30
+4,headache,0,15
+5,fracture,14,248
+2,stomach ache,9,132
+5,headache,3,61
+4,stomach ache,0,23
+3,fever,8,115
+5,cold,13,199
+1,stomach ache,3,62
+4,cold,2,46
+3,fever,6,95
+4,fracture,7,147
+5,chest pain,5,119
+2,stomach ache,3,68
+1,routine checkup,3,58
+4,fever,13,182
+2,stomach ache,12,232
+2,fracture,0,28
+1,headache,15,286
+2,cold,7,104
+2,cold,14,227
+1,routine checkup,5,81
+3,chest pain,8,136
+2,fracture,11,214
+1,cold,8,133
+1,fever,1,32
+4,cold,14,242
+2,routine checkup,6,123
+1,headache,8,150
+3,fracture,11,181
+1,routine checkup,8,147
+1,stomach ache,4,86
+4,fever,11,201
+2,routine checkup,8,155
+4,cold,6,102
+2,chest pain,10,207
+3,chest pain,7,137
+5,fracture,7,153
+4,cold,11,183
+4,routine checkup,4,91
+5,routine checkup,3,51
+1,stomach ache,9,129
+1,routine checkup,4,82
+1,chest pain,1,40
+2,cold,12,160
+5,cold,1,34
+1,routine checkup,13,228
+1,stomach ache,14,181
+2,routine checkup,3,58
+1,fever,15,195
+3,fracture,11,240
+3,stomach ache,1,33
+2,fever,12,169
+5,chest pain,6,130
+4,routine checkup,8,149
+2,cold,13,233
+2,fever,14,182
+3,routine checkup,0,28
+4,cold,12,210
+1,fever,0,15
+1,stomach ache,0,13
+3,fracture,9,174
+4,stomach ache,8,153
+5,headache,8,114
+4,cold,7,106
+3,routine checkup,10,151
+2,stomach ache,7,111
+1,routine checkup,11,213
+2,headache,12,194
+5,fracture,9,170
+1,headache,10,170
+4,fracture,15,309
+3,stomach ache,12,209
+2,fever,2,45
+2,fracture,15,295
+3,stomach ache,4,88
+3,fever,8,150
+4,fever,12,228
+2,routine checkup,6,128
+5,fracture,5,98
+4,fever,0,15
+4,routine checkup,7,127
+3,fever,2,52
+1,cold,7,132
+5,routine checkup,11,203
+1,routine checkup,0,21
+3,headache,7,126
+4,fever,1,34
+2,routine checkup,9,145
+5,fracture,15,231
+2,headache,2,45
+4,chest pain,5,98
+3,chest pain,10,190
+1,routine checkup,12,159
+3,cold,14,269
+2,chest pain,6,116
+2,cold,11,156
+5,headache,15,258
+2,fracture,0,35
+3,fracture,15,248
+2,headache,12,205
+4,fracture,0,25
+1,fracture,4,92
+2,routine checkup,3,70
+3,chest pain,1,56
+2,fracture,7,166
+1,cold,9,140
+2,stomach ache,15,293
+1,chest pain,13,244
+5,cold,7,127
+1,stomach ache,2,42
+3,fever,9,163
+3,fracture,5,118
+2,fracture,11,191
+4,fracture,0,31
+1,cold,7,134
+3,cold,10,180
+5,stomach ache,12,179
+2,chest pain,7,152
+5,cold,13,233
+5,headache,1,33
+2,fever,3,61
+3,stomach ache,8,165
+1,fever,13,250
+2,cold,9,120
+2,fever,0,12
+1,routine checkup,4,82
+5,routine checkup,7,127
+4,routine checkup,7,151
+5,routine checkup,4,75
+1,chest pain,14,206
+5,fever,3,64
+4,chest pain,13,243
+2,stomach ache,5,79
+5,fever,15,271
+2,cold,12,208
+4,headache,6,105
+1,fracture,15,291
+4,cold,4,84
+3,fever,8,118
+5,chest pain,7,117
+5,fever,13,213
+1,chest pain,15,279
+1,fever,0,14
+5,routine checkup,15,197
+4,stomach ache,14,256
+4,fever,10,186
+2,fever,0,18
+3,stomach ache,6,104
+2,routine checkup,5,91
+1,headache,3,52
+2,chest pain,9,185
+4,stomach ache,14,205
+1,fracture,1,49
+5,stomach ache,0,24
+2,stomach ache,8,137
+3,fever,12,224
+1,fracture,6,130
+2,chest pain,5,102
+3,stomach ache,8,137
+5,cold,10,167
+3,cold,10,202
+3,chest pain,1,56
+4,cold,2,51
+2,chest pain,9,147
+1,cold,12,192
+3,cold,13,188
+5,routine checkup,2,50
+4,fracture,13,200
+1,headache,1,27
+1,stomach ache,1,36
+1,fever,5,74
+5,fracture,0,25
+1,routine checkup,8,166
+5,routine checkup,1,33
+5,headache,3,54
+2,fracture,7,162
+1,cold,5,106
+1,cold,8,136
+2,headache,11,145
+3,headache,14,205
+1,chest pain,2,61
+2,fever,2,47
+2,cold,9,150
+1,fever,9,173
+5,cold,15,212
+4,fracture,10,210
+2,fever,14,228
+3,headache,5,98
+5,chest pain,5,101
+4,chest pain,7,119
+4,cold,4,72
+5,chest pain,13,193
+3,stomach ache,9,160
+3,headache,4,83
+4,fracture,6,105
+5,cold,8,132
+3,stomach ache,8,172
+4,routine checkup,1,39
+4,fever,1,29
+4,chest pain,3,69
+2,headache,4,84
+5,chest pain,6,98
+5,fracture,13,271
+1,fever,5,106
+4,stomach ache,7,129
+2,cold,15,224
+1,headache,2,43
+5,fever,9,143
+5,stomach ache,11,148
+3,fever,14,231
+2,chest pain,7,147
+4,headache,11,150
+3,fracture,3,87
+2,fever,0,13
+4,fracture,3,81
+4,routine checkup,4,85
+5,fever,2,53
+3,chest pain,10,223
+2,chest pain,3,76
+4,routine checkup,5,88
+3,fever,2,57
+5,chest pain,9,145
+2,fever,6,87
+4,fever,14,270
+5,fracture,12,189
+4,headache,6,84
+3,routine checkup,0,29
+4,fever,0,16
+1,headache,6,111
+3,fracture,12,246
+3,fever,1,39
+2,headache,4,73
+2,cold,14,251
+2,headache,10,195
+4,fever,13,251
+5,chest pain,10,193
+2,stomach ache,5,104
+2,chest pain,13,211
+1,stomach ache,5,108
+4,cold,12,196
+3,routine checkup,7,107
+1,stomach ache,4,62
+1,stomach ache,0,14
+5,cold,4,82
+1,fever,2,48
+5,fever,12,195
+4,cold,5,92
+2,chest pain,9,181
+1,routine checkup,1,38
+4,routine checkup,10,183
+2,stomach ache,5,92
+5,stomach ache,14,234
+2,stomach ache,2,46
+5,fracture,0,30
+5,fracture,5,106
+4,cold,3,54
+1,fracture,0,38
+3,cold,6,119
+5,fracture,4,81
+5,fracture,12,229
+3,cold,10,169
+3,cold,10,163
+1,headache,0,15
+2,stomach ache,11,153
+1,stomach ache,14,223
+3,chest pain,1,51
+4,fever,11,169
+5,routine checkup,9,137
+1,cold,5,80
+1,fever,2,45
+5,cold,7,120
+5,fever,0,12
+4,routine checkup,11,160
+4,chest pain,1,49
+4,headache,13,195
+4,headache,7,113
+3,headache,3,58
+3,chest pain,10,164
+4,fever,15,256
+5,headache,11,190
+5,routine checkup,8,158
+5,stomach ache,13,236
+4,stomach ache,11,201
+3,headache,8,135
+5,headache,13,196
+1,routine checkup,12,205
+4,fracture,2,59
+2,fracture,10,190
+4,fracture,10,146
+3,chest pain,6,140
+1,cold,4,81
+2,headache,12,216
+2,headache,1,31
+5,routine checkup,11,215
+3,fever,10,193
+5,chest pain,15,292
+4,fracture,13,234
+3,routine checkup,14,252
+1,routine checkup,9,167
+4,fracture,3,86
+5,routine checkup,6,131
+1,headache,11,192
+3,stomach ache,4,70
+5,routine checkup,1,34
+5,chest pain,4,102
+4,routine checkup,12,186
+3,stomach ache,5,114
+1,cold,8,107
+2,stomach ache,5,83
+4,headache,6,95
+4,chest pain,5,92
+1,fever,7,96
+4,fever,5,105
+2,cold,12,205
+3,chest pain,11,239
+5,chest pain,0,26
+3,chest pain,0,31
+2,fracture,9,179
+5,stomach ache,0,23
+4,fracture,3,88
+4,fever,12,234
+3,chest pain,6,117
+1,routine checkup,1,35
+2,chest pain,3,78
+3,routine checkup,11,211
+1,fever,2,49
+2,fever,14,181
+1,cold,8,127
+3,stomach ache,14,272
+5,routine checkup,15,214
+3,fracture,7,163
+5,routine checkup,12,199
+2,fever,9,174
+5,stomach ache,10,189
+2,fever,13,247
+1,fever,14,234
+5,fever,7,102
+2,chest pain,9,163
+5,fever,2,41
+5,fever,12,216
+2,fever,0,15
+5,headache,15,241
+5,headache,4,72
+1,routine checkup,6,97
+2,chest pain,11,206
+1,fracture,7,119
+5,fever,3,62
+1,chest pain,6,112
+1,stomach ache,0,21
+2,fever,5,88
+4,stomach ache,12,225
+4,fracture,8,157
+5,cold,7,98
+2,headache,4,70
+2,stomach ache,8,159
+3,fever,15,293
+3,chest pain,9,164
+2,headache,15,268
+3,chest pain,14,249
+5,fracture,8,127
+2,stomach ache,10,202
+1,chest pain,14,275
+5,routine checkup,12,187
+3,fever,5,111
+4,routine checkup,13,246
+3,cold,2,51
+5,stomach ache,2,54
+1,cold,6,104
+2,headache,3,72
+5,routine checkup,14,249
+1,headache,10,150
+1,chest pain,0,34
+2,cold,6,90
+4,fracture,12,184
+1,headache,9,174
+2,chest pain,2,73
+1,headache,10,173
+3,routine checkup,5,102
+5,routine checkup,15,235
+2,headache,10,155
+5,chest pain,7,157
+1,cold,13,211
+3,cold,12,173
+4,cold,11,150
+2,cold,13,182
+3,stomach ache,6,135
+1,fracture,5,109
+3,cold,6,96
+5,routine checkup,1,40
+5,stomach ache,13,179
+4,stomach ache,5,104
+3,fever,3,70
+4,routine checkup,1,34
+4,fracture,11,205
+1,stomach ache,8,149
+5,stomach ache,2,46
+5,routine checkup,4,79
+3,routine checkup,3,68
+1,headache,5,70
+3,headache,6,128
+3,chest pain,3,75
+2,fever,13,237
+1,chest pain,8,167
+3,fever,8,129
+4,cold,3,52
+3,stomach ache,9,183
+3,chest pain,3,83
+5,headache,1,26
+1,headache,2,45
+4,stomach ache,3,63
+2,fever,15,225
+3,chest pain,14,265
+2,cold,5,95
+2,headache,1,27
+3,routine checkup,9,182
+3,stomach ache,7,112
+5,stomach ache,6,123
+2,stomach ache,10,199
+1,cold,15,237
+3,chest pain,15,255
+1,fracture,15,247
+5,cold,1,31
+1,cold,6,96
+5,cold,4,77
+5,fracture,14,271
+3,routine checkup,4,83
+3,cold,4,70
+3,chest pain,7,131
+5,routine checkup,14,233
+4,headache,10,153
+2,fracture,9,193
+3,headache,12,165
+5,routine checkup,13,254
+2,fracture,10,165
+5,stomach ache,3,54
+3,routine checkup,6,108
+3,fracture,6,111
+2,headache,0,16
+1,routine checkup,11,180
+3,fever,1,35
+4,stomach ache,14,268
+5,chest pain,14,264
+1,headache,4,68
+5,chest pain,12,229
+4,cold,6,118
+3,cold,4,95
+4,fracture,0,28
+2,fever,14,254
+4,fever,1,26
+2,headache,9,156
+4,cold,2,44
+1,stomach ache,10,153
+1,fracture,2,62
+2,stomach ache,6,92
+1,headache,6,109
+4,headache,1,36
+3,routine checkup,7,105
+3,headache,0,20
+3,stomach ache,3,66
+2,fever,0,15
+1,fever,6,91
+5,cold,9,148
+5,fracture,14,242
+5,cold,4,70
+2,cold,14,264
+3,fever,1,35
+4,headache,15,222
+3,fever,9,161
+4,stomach ache,5,79
+4,fever,15,285
+3,chest pain,4,104
+4,fracture,10,166
+3,cold,9,128
+5,chest pain,8,144
+1,cold,15,252
+5,fracture,5,107
+3,stomach ache,8,170
+3,cold,12,189
+5,stomach ache,13,179
+4,headache,11,156
+4,headache,2,49
+4,routine checkup,8,141
+5,headache,6,110
+2,routine checkup,8,161
+5,fracture,2,56
+2,cold,7,98
+2,stomach ache,14,255
+5,headache,5,75
+2,fever,9,159
+3,cold,10,199
+5,fracture,15,230
+5,routine checkup,4,70
+3,fever,1,31
+5,fracture,8,154
+3,chest pain,12,236
+1,routine checkup,13,186
+2,fracture,5,108
+5,fever,2,41
+4,stomach ache,14,203
+3,cold,9,139
+4,stomach ache,4,96
+5,fever,12,181
+3,fracture,14,254
+1,fever,4,68
+1,chest pain,1,53
+2,chest pain,7,117
+4,stomach ache,10,193
+4,cold,2,50
+3,chest pain,10,150
+2,fever,7,110
+2,fracture,2,71
+5,chest pain,11,180
+1,stomach ache,10,192
+4,chest pain,15,248
+2,headache,8,136
+4,fracture,6,108
+5,fever,13,194
+5,headache,8,122
+3,chest pain,0,43
+5,chest pain,13,210
+5,fracture,14,292
+4,stomach ache,14,272
+2,cold,3,51
+1,headache,12,227
+3,fracture,7,144
+1,fever,6,103
+2,stomach ache,14,232
+4,chest pain,6,123
+5,fracture,0,25
+1,headache,7,141
+4,fever,7,136
+5,cold,0,18
+5,chest pain,3,78
+3,headache,10,190
+5,headache,10,167
+5,fever,8,135
+3,fracture,3,78
+1,headache,1,26
+3,routine checkup,12,206
+4,routine checkup,2,46
+4,routine checkup,11,164
+5,chest pain,4,97
+4,stomach ache,8,135
+4,fracture,13,191
+1,headache,3,51
+1,headache,10,156
+5,cold,8,154
+3,cold,1,32
+4,headache,14,267
+1,cold,12,154
+5,routine checkup,12,179
+4,chest pain,7,153
+1,fever,0,14
+2,chest pain,15,296
+1,routine checkup,8,135
+4,chest pain,6,120
+2,headache,12,159
+5,routine checkup,1,39
+5,headache,15,192
+2,fever,4,86
+3,fracture,15,243
+1,cold,15,252
+3,cold,12,178
+1,cold,4,68
+1,routine checkup,14,185
+4,headache,11,190
+2,routine checkup,11,216
+4,fracture,7,147
+5,cold,10,182
+4,chest pain,11,235
+3,chest pain,2,71
+3,fever,14,215
+2,fever,3,70
+3,chest pain,2,74
+3,routine checkup,1,38
+2,headache,4,73
+5,headache,9,133
+2,fracture,6,109
+1,stomach ache,4,73
+4,fever,5,96
+5,headache,5,100
+1,stomach ache,3,56
+4,routine checkup,3,63
+4,fever,0,17
+1,cold,12,195
+1,stomach ache,2,43
+1,chest pain,14,255
+4,cold,2,48
+5,routine checkup,15,294
+3,stomach ache,3,75
+4,headache,10,154
+1,fracture,11,212
+1,fracture,15,213
+5,cold,12,180
+4,chest pain,2,66
+3,fracture,5,121
+5,headache,10,132
+1,cold,5,84
+3,cold,15,273
+3,routine checkup,15,208
+5,headache,5,89
+4,routine checkup,10,153
+3,headache,8,119
+5,routine checkup,4,73
+3,fracture,6,103
+3,chest pain,2,72
+2,headache,15,209
+1,fracture,15,272
+1,routine checkup,2,40
+2,fracture,8,141
+5,fever,8,130
+1,fracture,9,169
+3,cold,13,177
+1,headache,4,83
+1,routine checkup,8,144
+4,fracture,5,122
+1,fracture,0,29
+1,routine checkup,0,23
+2,fever,7,128
+5,cold,2,53
+4,headache,7,144
+4,headache,3,50
+2,cold,6,90
+3,fracture,8,183
+4,cold,11,177
+2,routine checkup,8,151
+4,cold,6,117
+4,fracture,12,208
+4,fever,11,191
+4,headache,11,144
+5,routine checkup,10,145
+4,fever,10,136
+2,routine checkup,5,115
+2,fracture,9,199
+1,cold,11,175
+4,fever,14,253
+5,chest pain,13,195
+4,cold,1,32
+1,fever,11,156
+4,fracture,7,115
+4,headache,6,114
+5,stomach ache,10,170
+1,cold,5,83
+2,chest pain,2,69
+4,cold,4,74
+2,chest pain,11,217
+2,cold,6,101
+4,cold,11,144
+5,chest pain,0,37
+1,cold,3,66
+5,chest pain,5,91
+2,fever,15,252
+1,fever,9,165
+5,cold,5,97
+1,routine checkup,11,182
+3,cold,0,20
+2,routine checkup,11,185
+4,routine checkup,5,102
+1,fever,13,248
+5,cold,10,178
+3,cold,11,155
+1,stomach ache,3,67
+3,routine checkup,13,186
+1,fever,13,250
+4,stomach ache,14,220
+1,fracture,4,96
+4,stomach ache,4,74
+1,stomach ache,15,245
+1,headache,13,231
+1,stomach ache,0,15
+5,cold,0,15
+2,cold,1,27
+3,headache,9,183
+1,fracture,14,224
+3,fever,4,90
+5,chest pain,13,190
+5,cold,14,242
+5,stomach ache,12,240
+1,fracture,4,93
+3,headache,0,21
+2,cold,3,69
+2,stomach ache,10,140
+4,fracture,10,205
+1,stomach ache,8,117
+1,stomach ache,6,123
+5,chest pain,7,139
+1,cold,3,64
+4,routine checkup,15,279
+2,chest pain,13,248
+3,fever,0,19
+3,fracture,4,94
+4,cold,11,177
+5,routine checkup,9,142
+4,stomach ache,14,234
+4,chest pain,7,124
+2,chest pain,6,114
+5,chest pain,12,221
+1,chest pain,4,98
+1,routine checkup,4,81
+5,headache,7,143
+4,stomach ache,13,179
+2,cold,9,124
+1,stomach ache,15,240
+3,fever,11,215
+3,fever,3,70
+1,fracture,10,194
+4,routine checkup,2,52
+5,fracture,5,125
+3,routine checkup,4,98
+3,cold,13,256
+5,routine checkup,5,102
+3,fever,13,188
+5,routine checkup,15,199
+3,fever,4,93
+3,routine checkup,9,137
+4,routine checkup,9,175
+5,headache,7,111
+2,fracture,11,182
+4,fracture,5,107
+2,chest pain,15,280
+3,cold,8,139
+1,headache,11,211
+5,cold,13,183
+5,headache,4,85
+3,chest pain,4,115
+1,cold,13,247
+4,stomach ache,15,262
+3,cold,5,97
+2,chest pain,14,220
+2,headache,10,164
+3,routine checkup,0,30
+1,headache,1,24
+2,routine checkup,4,87
+5,routine checkup,0,15
+4,fracture,3,75
+3,fracture,1,54
+5,routine checkup,3,65
+5,chest pain,13,224
+3,fracture,2,54
+5,fever,8,133
+5,chest pain,6,116
+4,cold,12,162
+4,cold,0,17
+2,fracture,10,216
+5,cold,9,139
+4,fracture,6,112
+2,cold,12,185
+2,routine checkup,1,30
+2,headache,4,86
+4,headache,5,77
+5,cold,6,86
+4,cold,11,147
+1,fracture,9,161
+1,chest pain,4,85
+5,fever,4,66
+2,chest pain,9,137
+1,fever,4,83
+1,fracture,4,90
+4,cold,8,121
+3,routine checkup,11,188
+5,fever,7,130
+4,headache,11,211
+2,cold,13,196
+1,chest pain,2,61
+2,cold,6,97
+1,cold,5,80
+4,chest pain,11,181
+2,routine checkup,3,60
+2,chest pain,7,115
+1,cold,12,179
+1,fever,7,114
+1,stomach ache,2,41
+2,stomach ache,9,160
+2,routine checkup,12,203
+4,stomach ache,12,174
+5,fever,1,29
+4,fracture,1,44
+5,headache,13,183
+4,fever,10,156
+2,stomach ache,13,203
+3,fever,4,91
+4,fracture,7,138
+4,chest pain,10,189
+5,stomach ache,6,89
+3,routine checkup,6,124
+4,headache,1,34
+1,stomach ache,8,132
+5,stomach ache,0,21
+3,headache,5,92
+1,routine checkup,2,51
+4,headache,14,270
+3,cold,6,96
+1,stomach ache,14,184
+1,headache,7,112
+3,headache,5,111
+4,stomach ache,15,220
+1,stomach ache,7,122
+1,stomach ache,3,68
+4,cold,6,122
+1,headache,7,108
+5,chest pain,8,179
+4,fever,7,117
+2,stomach ache,10,178
+2,fracture,2,74
+2,routine checkup,3,68
+3,routine checkup,4,87
+3,stomach ache,11,161
+2,headache,8,122
+4,chest pain,9,176
+2,chest pain,10,200
+2,headache,9,138
+4,fracture,9,137
+5,routine checkup,7,117
+4,cold,3,57
+1,stomach ache,4,79
+2,cold,8,152
+1,stomach ache,3,77
+3,fracture,0,44
+5,headache,5,76
+1,stomach ache,10,168
+3,fever,14,191
+1,headache,1,32
+5,fracture,3,76
+5,headache,10,176
+2,headache,11,168
+3,headache,13,178
+5,headache,2,47
+2,routine checkup,7,122
+2,cold,5,88
+2,cold,7,114
+2,chest pain,12,200
+4,chest pain,2,67
+3,cold,2,50
+5,fracture,15,242
+1,chest pain,12,232
+4,fracture,10,165
+4,fever,10,132
+1,headache,5,99
+4,chest pain,6,120
+3,fracture,4,90
+5,headache,14,210
+1,routine checkup,4,66
+4,headache,14,196
+1,routine checkup,4,84
+2,cold,2,42
+2,headache,11,194
+2,fever,13,222
+2,cold,9,180
+3,chest pain,2,67
+2,fracture,9,190
+4,chest pain,5,101
+4,headache,15,270
+4,chest pain,14,277
+3,headache,3,69
+4,fever,7,114
+1,cold,1,29
+1,cold,11,158
+4,fracture,12,185
+4,routine checkup,7,145
+3,chest pain,12,258
+4,fracture,10,196
+2,chest pain,2,68
+1,fever,2,37
+2,stomach ache,7,109
+3,routine checkup,11,195
+1,headache,0,10
+2,cold,8,132
+5,cold,13,199
+2,cold,12,228
+3,headache,8,156
+1,routine checkup,1,32
+1,headache,12,191
+2,fracture,14,286
+1,stomach ache,6,85
+3,cold,6,107
+1,fracture,0,32
+3,fracture,13,250
+1,stomach ache,8,143
+2,chest pain,4,103
+1,stomach ache,11,196
+4,cold,11,202
+1,cold,0,13
+4,chest pain,8,155
+2,headache,11,201
+3,headache,4,80
+4,chest pain,0,31
+5,routine checkup,6,103
+1,fracture,0,34
+2,stomach ache,5,91
+4,headache,3,58
+1,fracture,11,213
+1,routine checkup,14,200
+2,routine checkup,4,89
+4,fever,10,142
+2,fracture,10,188
+5,routine checkup,11,214
+4,headache,10,164
+2,fracture,11,201
+4,fever,5,92
+1,chest pain,10,174
+4,fracture,5,110
+4,fracture,10,207
+1,fever,2,40
+3,headache,15,218
+3,fracture,0,41
+1,cold,6,117
+1,headache,13,219
+1,cold,3,69
+4,fever,9,142
+2,routine checkup,1,33
+2,routine checkup,1,38
+1,fracture,11,202
+2,headache,11,168
+3,stomach ache,5,102
+3,fever,15,197
+5,routine checkup,13,249
+2,chest pain,13,235
+1,fracture,10,195
+1,headache,15,270
+2,routine checkup,8,153
